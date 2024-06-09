@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "c997b03a543c2f80",
+        "id": "a74b0a8f08ed0eab",
         "type": "tabs",
         "children": [
           {
-            "id": "dff52157582cd34a",
+            "id": "9eedf08c65acfc88",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. The World/Localizaciones/Alejandria.md",
-                "mode": "source",
+                "file": "1. Scratch Notes/Statblock test.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. The World/Localizaciones/Alejandria.md",
+                "file": "1. Scratch Notes/Statblock test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. The World/Localizaciones/Alejandria.md",
+                "file": "1. Scratch Notes/Statblock test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,8 +134,17 @@
               "type": "initiative-tracker-view",
               "state": {}
             }
+          },
+          {
+            "id": "a19bbbb6ac4dc7c1",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       },
       {
         "id": "06ce4ceb52a9241e",
@@ -153,8 +162,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 384.5,
-    "collapsed": true
+    "width": 536.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -165,29 +173,37 @@
       "command-palette:Open command palette": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-5e-statblocks:Open Creature pane": false,
-      "initiative-tracker:Initiative Tracker Encounter Builder": false
+      "initiative-tracker:Initiative Tracker Encounter Builder": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "fantasy-content-generator:Fantasy Generators": false
     }
   },
-  "active": "dff52157582cd34a",
+  "active": "a19bbbb6ac4dc7c1",
   "lastOpenFiles": [
+    "1. Scratch Notes/random generator.md",
     "1. Scratch Notes/Statblock test.md",
-    "z_Templates/1_Story World Templates/Asentamiento Resumen Template.md",
-    "2. The World/Localizaciones/Localizaciones.md",
-    "z_Templates/4_Markdown/Metadata Templates/Asentamiento  Metadata Template.md",
-    "1. Scratch Notes/Untitled.md",
-    "2. The World/2. The World.md",
+    "5. Mechanics/PF2E Remaster Community Content/Bestiary/bestiary-1/aasimar-redeemer.md",
+    "2. The World/Localizaciones/Golarion.md",
+    "2. The World/Localizaciones/Herreria.md",
     "2. The World/Localizaciones/Alejandria.md",
     "2. The World/Localizaciones/Roma.md",
+    "1. Scratch Notes/sql.md",
+    "2. The World/Mapas/Mapa del Mundo.md",
+    "2. The World/Localizaciones/Localizaciones.md",
+    "z_Assets/mapa_v0.png",
+    "2. The World/Mapas",
+    "z_Assets/mapa_v1.jpg",
+    "z_Templates/1_Story World Templates/Infobox Templates/(Infobox) Asentamiento Template.md",
+    "z_Templates/1_Story World Templates/Infobox Templates",
+    "z_Templates/4_Markdown/Metadata Templates/(Metadata) Asentamiento Template.md",
+    "2. The World/Localizaciones/Posada.md",
+    "2. The World/2. The World.md",
     "5. Mechanics/PF2E Remaster Community Content/Bestiary/trouble-in-otari/xulgath-boss.md",
     "2. The World/NPCs/Fred.md",
     "2. The World/NPCs/Bob.md",
-    "2. The World/Localizaciones/Posada.md",
-    "2. The World/Localizaciones/Herreria.md",
-    "2. The World/Localizaciones/Golarion.md",
     "z_Assets/Alejandria.jpg",
     "z_Assets/Pasted image 20240609155448.png",
     "z_Assets/Pasted image 20240609161838.png",
-    "5. Mechanics/PF2E Remaster Community Content/Bestiary/bestiary-1/aasimar-redeemer.md",
     "z_Templates/4_Markdown/Metadata Templates",
     "z_Templates/4_Markdown/Untitled.md",
     "z_Templates/4_Markdown/Combat Templates/Insert Monster (TTRPG Statblock).md",
@@ -198,8 +214,6 @@
     "5. Mechanics/PF2E Remaster Community Content/PF2e Journals/GM Screen/Hero Points.md",
     "0. DM Screen/GM Screen.md",
     "5. Mechanics/PF2E Remaster Community Content/Actions/Earn Income.md",
-    "5. Mechanics/PF2E Remaster Community Content/PF2e Journals/GM Screen/Conditions.md",
-    "0. DM Screen/DM Screen.md",
     "z_Templates/4_Markdown/Call Out Boxes",
     "2-Mechanics/PF2e Journals/GM Screen",
     "2-Mechanics/PF2e Journals",
@@ -210,12 +224,8 @@
     "5. Mechanics/Bestiary/_attachments/pf2e-quest.png",
     "5. Mechanics/Vehicles/zz_asset-files/systems-pf2e-icons-default-icons-vehicle.svg",
     "5. Mechanics/Vehicles/zz_asset-files/desktop.ini",
-    "5. Mechanics/Vehicles/zz_asset-files",
-    "5. Mechanics/Vehicles/desktop.ini",
     "5. Mechanics/Hazards (Rulebooks)/zz_asset-files/systems-pf2e-icons-default-icons-hazard.svg",
     "5. Mechanics/Effects/Spell Effects/zz_asset-files/systems-pf2e-icons-spells-zealous-conviction.webp",
-    "5. Mechanics/Effects/Spell Effects/zz_asset-files/systems-pf2e-icons-spells-word-of-truth.webp",
-    "5. Mechanics/Effects/Spell Effects/zz_asset-files/systems-pf2e-icons-spells-wish-twisted-form.webp",
     "Untitled.canvas"
   ]
 }

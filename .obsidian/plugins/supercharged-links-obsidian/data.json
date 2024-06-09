@@ -1,0 +1,53 @@
+{
+  "targetAttributes": [
+    "icon",
+    "noteType"
+  ],
+  "targetTags": true,
+  "getFromInlineField": true,
+  "enableTabHeader": true,
+  "activateSnippet": true,
+  "enableEditor": true,
+  "enableFileList": true,
+  "enableBacklinks": true,
+  "enableQuickSwitcher": true,
+  "enableSuggestor": true,
+  "selectors": [
+    {
+      "type": "attribute",
+      "name": "icon",
+      "value": "asentamiento",
+      "matchCaseSensitive": false,
+      "match": "exact",
+      "uid": "8d93-b514",
+      "selectText": true,
+      "selectAppend": true,
+      "selectPrepend": true,
+      "selectBackground": true
+    },
+    {
+      "type": "attribute",
+      "name": "noteType",
+      "value": "pf2eMonster",
+      "matchCaseSensitive": false,
+      "match": "exact",
+      "uid": "5d05-5357",
+      "selectText": true,
+      "selectAppend": true,
+      "selectPrepend": true,
+      "selectBackground": true
+    },
+    {
+      "type": "attribute",
+      "name": "icon",
+      "value": "npc",
+      "matchCaseSensitive": false,
+      "match": "exact",
+      "uid": "c752-825e",
+      "selectText": true,
+      "selectAppend": true,
+      "selectPrepend": true,
+      "selectBackground": true
+    }
+  ]
+}

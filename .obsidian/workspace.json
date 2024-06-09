@@ -1,0 +1,222 @@
+{
+  "main": {
+    "id": "6fed1ab809fb163a",
+    "type": "split",
+    "children": [
+      {
+        "id": "11e72994efcef322",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "894c0b272fc59628",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "z_Templates/1_Story World Templates/Asentamiento Resumen Template.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "26f99d86f57891ba",
+    "type": "split",
+    "children": [
+      {
+        "id": "dc78a84cc92f857a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "db3f8bf368bd618e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2c75867b117f932a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "glider",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e3faf5de64efa232",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 289.5
+  },
+  "right": {
+    "id": "e93c6dceacdf90fc",
+    "type": "split",
+    "children": [
+      {
+        "id": "488443146914dcce",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "02cd9e2690f430e4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "z_Templates/1_Story World Templates/Asentamiento Resumen Template.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3043697bed7e022e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "z_Templates/1_Story World Templates/Asentamiento Resumen Template.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "88a08cd9d591b942",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "db19a9dc141cdeda",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "3e2557ddd9bd5546",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      },
+      {
+        "id": "06ce4ceb52a9241e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "66df6475ca2d2a8a",
+            "type": "leaf",
+            "state": {
+              "type": "fantasy-statblocks-creature-pane",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 376.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-5e-statblocks:Open Creature pane": false,
+      "initiative-tracker:Initiative Tracker Encounter Builder": false
+    }
+  },
+  "active": "894c0b272fc59628",
+  "lastOpenFiles": [
+    "2. The World/Localizaciones/Localizaciones.md",
+    "z_Templates/4_Markdown/Metadata Templates/Asentamiento  Metadata Template.md",
+    "1. Scratch Notes/Untitled.md",
+    "2. The World/2. The World.md",
+    "2. The World/Localizaciones/Alejandria.md",
+    "2. The World/Localizaciones/Roma.md",
+    "5. Mechanics/PF2E Remaster Community Content/Bestiary/trouble-in-otari/xulgath-boss.md",
+    "1. Scratch Notes/Statblock test.md",
+    "2. The World/NPCs/Fred.md",
+    "2. The World/NPCs/Bob.md",
+    "2. The World/Localizaciones/Posada.md",
+    "2. The World/Localizaciones/Herreria.md",
+    "2. The World/Localizaciones/Golarion.md",
+    "z_Templates/1_Story World Templates/Asentamiento Resumen Template.md",
+    "z_Assets/Alejandria.jpg",
+    "z_Assets/Pasted image 20240609155448.png",
+    "z_Assets/Pasted image 20240609161838.png",
+    "5. Mechanics/PF2E Remaster Community Content/Bestiary/bestiary-1/aasimar-redeemer.md",
+    "z_Templates/4_Markdown/Metadata Templates",
+    "z_Templates/4_Markdown/Untitled.md",
+    "z_Templates/4_Markdown/Combat Templates/Insert Monster (TTRPG Statblock).md",
+    "5. Mechanics/PF2E Remaster Community Content/Bestiary/bestiary-1/winter-wolf.md",
+    "Glider.md",
+    "5. Mechanics/PF2E Remaster Community Content/Vehicles/Adaptable Paddleboat.md",
+    "5. Mechanics/PF2E Remaster Community Content/Vehicles/Glider.md",
+    "5. Mechanics/PF2E Remaster Community Content/PF2e Journals/GM Screen/Hero Points.md",
+    "0. DM Screen/GM Screen.md",
+    "5. Mechanics/PF2E Remaster Community Content/Actions/Earn Income.md",
+    "5. Mechanics/PF2E Remaster Community Content/PF2e Journals/GM Screen/Conditions.md",
+    "0. DM Screen/DM Screen.md",
+    "z_Templates/4_Markdown/Call Out Boxes",
+    "2-Mechanics/PF2e Journals/GM Screen",
+    "2-Mechanics/PF2e Journals",
+    "2-Mechanics",
+    "z_Templates/4_Markdown/Combat Templates",
+    "z_Templates/4_Markdown",
+    "5. Mechanics/Bestiary/_attachments/pf2e-misc.png",
+    "5. Mechanics/Bestiary/_attachments/pf2e-quest.png",
+    "5. Mechanics/Vehicles/zz_asset-files/systems-pf2e-icons-default-icons-vehicle.svg",
+    "5. Mechanics/Vehicles/zz_asset-files/desktop.ini",
+    "5. Mechanics/Vehicles/zz_asset-files",
+    "5. Mechanics/Vehicles/desktop.ini",
+    "5. Mechanics/Hazards (Rulebooks)/zz_asset-files/systems-pf2e-icons-default-icons-hazard.svg",
+    "5. Mechanics/Effects/Spell Effects/zz_asset-files/systems-pf2e-icons-spells-zealous-conviction.webp",
+    "5. Mechanics/Effects/Spell Effects/zz_asset-files/systems-pf2e-icons-spells-word-of-truth.webp",
+    "5. Mechanics/Effects/Spell Effects/zz_asset-files/systems-pf2e-icons-spells-wish-twisted-form.webp",
+    "Untitled.canvas"
+  ]
+}

@@ -1,0 +1,3 @@
+```statblock
+creature: Winter Wolf
+```

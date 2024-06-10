@@ -1,12 +1,12 @@
 ---
 icon: asentamiento
 NoteType: Localizacion
-Community-Size: Ciudad
+Community-Size: Puesto Avanzado, Aldea, Pueblo, Villa, Ciudad
 Alignment: Chaotic Evil
 Government: Autocracy
-type: Capital
+type: Castillo, Capital...
 politics: Lordship
-leader: Cleopatra
+leader: 
 guildsgroups:
   - Thieves Guild 1
   - Cult 1
@@ -14,7 +14,7 @@ guildsgroups:
 region:
   - This area
   - Of this area
-size: Ciudad
+size: Grand, Pequeño, Mediano | Puesto Avanzado, Aldea, Pueblo, Villa, Ciudad
 population: 0
 commonraces:
   - Humans
@@ -29,14 +29,15 @@ imports:
 defences:
 ---
 
+
 > [!infobox]
 > # **`=this.file.name`**
-> ![[Alejandria.jpg|cover hsmall]]
+> ![[MapPlaceholder.jpg|cover hsmall]]
 > ### **Geografia**
 > Type | Stat
 > --- | ---
-> Type |`=this.type`
-> Size |`=this.size`
+> Tipo |`=this.type`
+> Tamaño |`=this.size`
 > Region |`=this.region`
 > ###### **Politica**
 > Type | Stat
@@ -61,6 +62,46 @@ defences:
 > Importacion |`=this.imports`
 
 
-----
+# `=this.file.name`
+## Overview
+Placeholder
+
+### Placeholder Map
+![[MapPlaceholder.jpg|Placeholder Map]]
+
+### Placeholder Picture
+![[ImagePlaceholder.jpg|Placeholder Picture]]
+
+Placeholder
+
+## Notable NPCs
+Placeholder
+
+## Profile
+Placeholder
+
+## Historia
+Placeholder
+
+## Puntos de interés
+Placeholder
+
+## Valuables
+Placeholder
+
+## Relaciones Internas
+Placeholder
+
+## Relaciones externas
+Placeholder
+
+## Background
+Placeholder
+
+## Detalles adicionales
+Placeholder
+
+`=this.region`
 
 
+`=link(this.region)`

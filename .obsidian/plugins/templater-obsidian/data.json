@@ -16,7 +16,15 @@
   "folder_templates": [
     {
       "folder": "2. The World/NPCs",
-      "template": "z_Templates/4_Markdown/New NPC Template.md"
+      "template": "z_Templates/New NPC Template.md"
+    },
+    {
+      "folder": "2. The World/Localizaciones/Asentamientos",
+      "template": "z_Templates/New Asentamiento Template.md"
+    },
+    {
+      "folder": "2. The World/Localizaciones/Tabernas",
+      "template": "z_Templates/New Taberna Template.md"
     }
   ],
   "syntax_highlighting": true,

@@ -48,6 +48,18 @@
       "selectAppend": true,
       "selectPrepend": true,
       "selectBackground": true
+    },
+    {
+      "type": "attribute",
+      "name": "icon",
+      "value": "establecimiento",
+      "matchCaseSensitive": false,
+      "match": "exact",
+      "uid": "1743-965a",
+      "selectText": true,
+      "selectAppend": true,
+      "selectPrepend": true,
+      "selectBackground": true
     }
   ]
 }

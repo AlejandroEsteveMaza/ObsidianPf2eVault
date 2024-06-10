@@ -4,22 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "bddfbe719c05f231",
+        "id": "f312a4273c824189",
         "type": "tabs",
         "children": [
           {
-            "id": "81a28abc7bf6a710",
+            "id": "b2a4c67eb5600161",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "z_Templates/4_Markdown/New Asentamiento Template.md",
-                "mode": "preview",
+                "file": "2. The World/Localizaciones/Localizaciones.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "cac1422be0407717",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. The World/NPCs/Fred.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "baaca441eb76ebe4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "z_Templates/New Taberna Template.md",
+                "mode": "source",
                 "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "z_Templates/4_Markdown/New Asentamiento Template.md",
+                "file": "z_Templates/New Taberna Template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "z_Templates/4_Markdown/New Asentamiento Template.md",
+                "file": "z_Templates/New Taberna Template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,20 +204,29 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "81a28abc7bf6a710",
+  "active": "baaca441eb76ebe4",
   "lastOpenFiles": [
-    "z_Templates/1_Story World Templates/Infobox Templates/(Infobox) Asentamiento Template.md",
-    "z_Templates/4_Markdown/New Asentamiento Template.md",
-    "z_Templates/4_Markdown/Metadata Templates/(Metadata) Asentamiento Template.md",
+    "z_Templates/New Asentamiento Template.md",
+    "z_Templates/New NPC Template.md",
+    "z_Templates/New Taberna Template.md",
+    "2. The World/Localizaciones/Asentamientos/Roma.md",
+    "2. The World/Localizaciones/Asentamientos/Alejandria.md",
+    "2. The World/Localizaciones/Asentamientos",
+    "2. The World/Localizaciones/Establecimientos",
+    "2. The World/NPCs/Txun Shu Zu.md",
+    "2. The World/NPCs/Josito.md",
+    "2. The World/NPCs/Fred.md",
+    "z_Assets/Default_Txun_Shu_Zu_es_un_hombre_de_apariencia_anciana_aunque_1.jpg",
+    "2. The World/NPCs/NPCs.md",
+    "2. The World/NPCs/Bob.md",
+    "2. The World/Localizaciones/Localizaciones.md",
+    "z_Templates/4_Markdown/Buttons/New Button Template.md",
+    "z_Templates/Infobox Templates/(Infobox) Asentamiento Template.md",
+    "z_Templates/Metadata Templates/(Metadata) Asentamiento Template.md",
     "z_Assets/Misc/MapPlaceholder.jpg",
     "z_Assets/Misc/ImagePlaceholder.png.md",
-    "2. The World/NPCs/Josito.md",
-    "2. The World/NPCs/Bob.md",
-    "2. The World/NPCs/Fred.md",
-    "z_Templates/4_Markdown/New NPC Template.md",
     "2. The World/2. The World.md",
     "NewNPC.md",
-    "z_Templates/4_Markdown/Buttons/New Button Template.md",
     "z_Templates/4_Markdown/Buttons",
     "1. Scratch Notes/templater try.md",
     "2. Mechanics/Non-Player Characters/New NPC Template.md",
@@ -207,7 +241,6 @@
     "0. DM Screen/DM Screen.md",
     "5. Mechanics/PF2E Remaster Community Content/Conditions/Invisible.md",
     "5. Mechanics/PF2E Remaster Community Content/Actions/Seek.md",
-    "5. Mechanics/PF2E Remaster Community Content/PF2e Journals/GM Screen/Conditions.md",
     "5. Mechanics/PF2E Remaster Community Content/Conditions/zz_asset-files/systems-pf2e-icons-conditions-wounded.webp",
     "5. Mechanics/PF2E Remaster Community Content/Conditions/zz_asset-files/systems-pf2e-icons-conditions-unnoticed.webp",
     "5. Mechanics/PF2E Remaster Community Content/Conditions/zz_asset-files/systems-pf2e-icons-conditions-unfriendly.webp",
@@ -215,18 +248,10 @@
     "5. Mechanics/PF2E Remaster Community Content/Conditions/zz_asset-files/systems-pf2e-icons-conditions-stupefied.webp",
     "5. Mechanics/PF2E Remaster Community Content/Conditions/zz_asset-files/systems-pf2e-icons-conditions-unconscious.webp",
     "5. Mechanics/PF2E Remaster Community Content/Conditions/zz_asset-files/systems-pf2e-icons-conditions-stunned.webp",
-    "5. Mechanics/PF2E Remaster Community Content/Conditions/zz_asset-files/systems-pf2e-icons-conditions-slowed.webp",
     "5. Mechanics/PF2E Remaster Community Content/Conditions/zz_asset-files",
-    "5. Mechanics/PF2E Remaster Community Content/Conditions/Wounded 1.md",
-    "5. Mechanics/PF2E Remaster Community Content/Conditions/Unnoticed.md",
-    "5. Mechanics/PF2E Remaster Community Content/Conditions/Unfriendly.md",
-    "5. Mechanics/PF2E Remaster Community Content/Conditions/Undetected.md",
-    "5. Mechanics/PF2E Remaster Community Content/Conditions/Unconscious.md",
     "5. Mechanics/PF2E Remaster Community Content/Conditions",
     "2. The World/Mapas",
-    "z_Templates/1_Story World Templates/Infobox Templates",
-    "z_Templates/4_Markdown/Metadata Templates",
-    "z_Templates/4_Markdown/Call Out Boxes",
+    "z_Templates/Infobox Templates",
     "Untitled.canvas"
   ]
 }

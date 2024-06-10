@@ -8,6 +8,7 @@ Alignment: Are they Chaotic Neutral or Lawful Neutral
 Character-Role: Are they a friend or foe?
 Location: What is the name of the place they live?
 icon: npc
+NoteType: NPC
 ---
 
 > [!infobox]

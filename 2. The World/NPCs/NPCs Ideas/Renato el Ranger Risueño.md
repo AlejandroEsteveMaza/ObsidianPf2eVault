@@ -31,9 +31,9 @@ Location: What is the name of the place they live?
 > Character Role | `=this.character-role` |
 
 # `=this.file.name`
-## Profile
+## Perfil
 
-**Add description here**
+Renato es un ranger cuyo sentido de la orientación es tan malo que siempre termina en el lugar equivocado. Sin embargo, su actitud positiva y su risa contagiosa han convertido sus errores en aventuras memorables. Cree firmemente que "perderse es sólo otra forma de encontrar algo nuevo".
 
 > [!info] Statblock
 > ```statblock

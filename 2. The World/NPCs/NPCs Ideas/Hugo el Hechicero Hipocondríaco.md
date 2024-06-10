@@ -31,9 +31,9 @@ Location: What is the name of the place they live?
 > Character Role | `=this.character-role` |
 
 # `=this.file.name`
-## Profile
+## Perfil
 
-**Add description here**
+Hugo está convencido de que todas las enfermedades mágicas lo persiguen. Siempre lleva consigo un botiquín mágico lleno de pociones para cualquier tipo de malestar. Sus enemigos suelen caer rendidos, no por sus hechizos, sino por sus interminables quejas sobre síntomas imaginarios.
 
 > [!info] Statblock
 > ```statblock

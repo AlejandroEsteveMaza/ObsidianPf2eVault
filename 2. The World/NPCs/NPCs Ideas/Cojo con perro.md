@@ -1,14 +1,14 @@
 ---
 icon: npc
 NoteType: NPC
-AssociatedGroup: Name of Guild or Group they belong to
-Gender: Male or Female or... 
-Race: Human, Dwarf, Elf, etc
-Age: How old are they?
-Class: Warrior or Wizard or ... 
-Alignment: Are they Chaotic Neutral or Lawful Neutral
-Character-Role: Are they a friend or foe?
-Location: What is the name of the place they live?
+AssociatedGroup: Tabernero
+Gender: Hombre
+Race: Humano
+Age: 56
+Class: 
+Alignment: 
+Character-Role: 
+Location: 
 ---
 
 > [!infobox]
@@ -31,9 +31,10 @@ Location: What is the name of the place they live?
 > Character Role | `=this.character-role` |
 
 # `=this.file.name`
-## Profile
+## Perfil
 
-**Add description here**
+Cojo paseando a perro.
+Tira y se queja constantemente del perro, porque este quiere correr y el cojo no puede
 
 > [!info] Statblock
 > ```statblock

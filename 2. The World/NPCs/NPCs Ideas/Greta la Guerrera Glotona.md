@@ -31,9 +31,9 @@ Location: What is the name of the place they live?
 > Character Role | `=this.character-role` |
 
 # `=this.file.name`
-## Profile
+## Perfil
 
-**Add description here**
+Greta es una formidable guerrera que puede comer más rápido que cualquier ser viviente. Sus hazañas en combate son legendarias, pero aún más legendarias son sus competiciones de comida. Su lema: "Una batalla ganada, una cena bien servida".
 
 > [!info] Statblock
 > ```statblock

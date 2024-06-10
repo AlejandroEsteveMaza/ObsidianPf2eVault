@@ -31,9 +31,11 @@ Location: What is the name of the place they live?
 > Character Role | `=this.character-role` |
 
 # `=this.file.name`
-## Profile
+## Perfil
 
-**Add description here**
+Los Soprano
+Los protas lo matan y tienen que desahacerse del cadáver en un sitio lejano pero este escapa y resulta ser alguien de las fuerzas especiales.
+Cuando los protas vuelven ya no estan sus caballos ¿se los ha llevadoe l ruso?
 
 > [!info] Statblock
 > ```statblock

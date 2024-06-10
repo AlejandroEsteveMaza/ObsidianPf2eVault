@@ -31,9 +31,12 @@ Location: What is the name of the place they live?
 > Character Role | `=this.character-role` |
 
 # `=this.file.name`
-## Profile
+## Perfil
 
-**Add description here**
+RDR2
+Vidente 🔮
+Ciego con un baston y ropas de vagabundo al lado de un camino  mendiga unas monedas.
+Si le das monedas te predice el futuro.
 
 > [!info] Statblock
 > ```statblock

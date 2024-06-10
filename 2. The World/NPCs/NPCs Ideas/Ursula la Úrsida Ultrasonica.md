@@ -31,9 +31,9 @@ Location: What is the name of the place they live?
 > Character Role | `=this.character-role` |
 
 # `=this.file.name`
-## Profile
+## Perfil
 
-**Add description here**
+Ursula es una druida que puede transformarse en un oso, pero tiene una voz chillona que nadie espera de una criatura tan imponente. Usa su voz para asustar a sus enemigos y para cantar canciones pop desafinadas en los bosques, lo que ha llevado a muchos a creer que el bosque está embrujado
 
 > [!info] Statblock
 > ```statblock

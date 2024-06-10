@@ -31,9 +31,9 @@ Location: What is the name of the place they live?
 > Character Role | `=this.character-role` |
 
 # `=this.file.name`
-## Profile
+## Perfil
 
-**Add description here**
+Selene es una devota sacerdotisa que sufre de narcolepsia. A menudo se queda dormida en medio de sus sermones y rituales, lo que ha llevado a situaciones insólitas en su templo. Sin embargo, sus visiones proféticas durante el sueño son sorprendentemente precisas.
 
 > [!info] Statblock
 > ```statblock

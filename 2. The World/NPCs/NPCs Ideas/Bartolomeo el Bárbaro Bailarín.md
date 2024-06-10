@@ -31,9 +31,9 @@ Location: What is the name of the place they live?
 > Character Role | `=this.character-role` |
 
 # `=this.file.name`
-## Profile
+## Perfil
 
-**Add description here**
+fue criado en una tribu de bárbaros conocida por su ferocidad y su ritmo impecable en la pista de baile. Su sueño es ser el primer bárbaro en ganar un concurso de baile internacional, combinando sus habilidades de lucha con movimientos de breakdance.
 
 > [!info] Statblock
 > ```statblock

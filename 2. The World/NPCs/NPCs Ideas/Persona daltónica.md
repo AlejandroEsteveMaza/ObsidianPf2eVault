@@ -1,14 +1,14 @@
 ---
 icon: npc
 NoteType: NPC
-AssociatedGroup: Name of Guild or Group they belong to
-Gender: Male or Female or... 
-Race: Human, Dwarf, Elf, etc
-Age: How old are they?
-Class: Warrior or Wizard or ... 
-Alignment: Are they Chaotic Neutral or Lawful Neutral
-Character-Role: Are they a friend or foe?
-Location: What is the name of the place they live?
+AssociatedGroup: 
+Gender: 
+Race: 
+Age: 
+Class:  
+Alignment: 
+Character-Role: 
+Location: 
 ---
 
 > [!infobox]
@@ -31,10 +31,13 @@ Location: What is the name of the place they live?
 > Character Role | `=this.character-role` |
 
 # `=this.file.name`
-## Profile
+## Perfil
 
-**Add description here**
+Persona daltónica 
 
+Alguien le deja encargado que haga algo cuando u  dispositivo cambie de color pero este no lo hace porque para él no cambia
+
+----
 > [!info] Statblock
 > ```statblock
 > name: Individual

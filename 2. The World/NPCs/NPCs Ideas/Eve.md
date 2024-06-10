@@ -2,8 +2,8 @@
 icon: npc
 NoteType: NPC
 AssociatedGroup: Name of Guild or Group they belong to
-Gender: Male or Female or... 
-Race: Human, Dwarf, Elf, etc
+Gender: Female 
+Race: Humano
 Age: How old are they?
 Class: Warrior or Wizard or ... 
 Alignment: Are they Chaotic Neutral or Lawful Neutral
@@ -31,9 +31,11 @@ Location: What is the name of the place they live?
 > Character Role | `=this.character-role` |
 
 # `=this.file.name`
-## Profile
+## Perfil
 
-**Add description here**
+persona con enanismo que se hace pasar por niña pequeña
+
+pone voz de niña
 
 > [!info] Statblock
 > ```statblock

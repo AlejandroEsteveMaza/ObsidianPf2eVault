@@ -1,19 +1,19 @@
 ---
-AssociatedGroup: Name of Guild or Group they belong to
-Gender: Masculino
-Race: Humano
-Age: 1000
-Class: Huesped 
-Alignment: True Neutral
-Character-Role: Neutral
-Location: ?
 icon: npc
 NoteType: NPC
+AssociatedGroup: Name of Guild or Group they belong to
+Gender: Male or Female or... 
+Race: Human, Dwarf, Elf, etc
+Age: How old are they?
+Class: Warrior or Wizard or ... 
+Alignment: Are they Chaotic Neutral or Lawful Neutral
+Character-Role: Are they a friend or foe?
+Location: What is the name of the place they live?
 ---
 
 > [!infobox]
 > # `=this.file.name`
-> ![[Default_Txun_Shu_Zu_es_un_hombre_de_apariencia_anciana_aunque_1.jpg|cover hsmall]]
+> ![[z_Assets/Misc/ImagePlaceholder.jpg|cover hsmall]]
 > ###### Basic Information
 > Type |  Stat |
 > ---|---|
@@ -31,9 +31,11 @@ NoteType: NPC
 > Character Role | `=this.character-role` |
 
 # `=this.file.name`
-## Profile
+## Perfil
 
-**Add description here**
+**Aegis el Grande “El Maestro de las Naciones”** → héroe o tirano que unió las naciones hace miles de años
+
+---
 
 > [!info] Statblock
 > ```statblock

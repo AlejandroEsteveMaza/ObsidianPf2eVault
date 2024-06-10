@@ -13,7 +13,7 @@ Location: What is the name of the place they live?
 
 > [!infobox]
 > # `=this.file.name`
-> ![[z_Assets/Misc/ImagePlaceholder.jpg|cover hsmall]]
+> ![[bon voyage.bmp|cover hsmall]]
 > ###### Basic Information
 > Type |  Stat |
 > ---|---|
@@ -31,9 +31,12 @@ Location: What is the name of the place they live?
 > Character Role | `=this.character-role` |
 
 # `=this.file.name`
-## Profile
+## Perfil
 
-**Add description here**
+Alquimista de bombas 
+Mimo
+Acento frances
+Los increíbles 
 
 > [!info] Statblock
 > ```statblock

@@ -31,9 +31,11 @@ Location: What is the name of the place they live?
 > Character Role | `=this.character-role` |
 
 # `=this.file.name`
-## Profile
+## Perfil
 
-**Add description here**
+Boxeador monje
+
+https://www.instagram.com/reel/C5YOM2Zt8wz/?igsh=c211djI0MWM2dHpo
 
 > [!info] Statblock
 > ```statblock

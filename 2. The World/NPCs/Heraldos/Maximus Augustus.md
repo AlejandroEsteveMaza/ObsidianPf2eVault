@@ -31,9 +31,11 @@ Location: What is the name of the place they live?
 > Character Role | `=this.character-role` |
 
 # `=this.file.name`
-## Profile
+## Perfil
 
-**Add description here**
+**Marcus Valerius Maximus Augustus 10º** *“El eterno”* → Heraldo Divino
+
+---
 
 > [!info] Statblock
 > ```statblock

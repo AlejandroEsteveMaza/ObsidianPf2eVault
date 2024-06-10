@@ -31,9 +31,9 @@ Location: What is the name of the place they live?
 > Character Role | `=this.character-role` |
 
 # `=this.file.name`
-## Profile
+## Perfil
 
-**Add description here**
+Teodoro es un trovador con un gran talento para la música pero una increíble torpeza. Siempre está tropezando con sus propios instrumentos y cayendo del escenario, pero su actitud positiva y sus canciones pegajosas le han ganado un público fiel que viene tanto por la música como por las caídas.
 
 > [!info] Statblock
 > ```statblock

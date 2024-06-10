@@ -31,9 +31,9 @@ Location: What is the name of the place they live?
 > Character Role | `=this.character-role` |
 
 # `=this.file.name`
-## Profile
+## Perfil
 
-**Add description here**
+Violeta es una vidente que preferiría quedarse en casa viendo telenovelas que salir a predecir el futuro. Sus predicciones son increíblemente acertadas, pero sólo las ofrece a regañadientes y con la condición de que nadie la moleste durante su horario de siesta.
 
 > [!info] Statblock
 > ```statblock

@@ -31,9 +31,9 @@ Location: What is the name of the place they live?
 > Character Role | `=this.character-role` |
 
 # `=this.file.name`
-## Profile
+## Perfil
 
-**Add description here**
+fue expulsado de su pueblo por contar chistes malos de dragones. Ahora, recorre el mundo contando sus chistes en tabernas, esperando que algún día alguien los encuentre graciosos. Sin embargo, su verdadero talento es su capacidad para salir ileso de cualquier situación ridícula.
 
 > [!info] Statblock
 > ```statblock

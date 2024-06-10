@@ -1,4 +1,6 @@
 ---
+icon: npc
+NoteType: NPC
 AssociatedGroup: Name of Guild or Group they belong to
 Gender: Male or Female or... 
 Race: Human, Dwarf, Elf, etc
@@ -7,8 +9,6 @@ Class: Warrior or Wizard or ...
 Alignment: Are they Chaotic Neutral or Lawful Neutral
 Character-Role: Are they a friend or foe?
 Location: What is the name of the place they live?
-icon: npc
-NoteType: NPC
 ---
 
 > [!infobox]
@@ -31,10 +31,11 @@ NoteType: NPC
 > Character Role | `=this.character-role` |
 
 # `=this.file.name`
-## Profile
+## Perfil
 
-**Add description here**
+**AddDescriptionHere**
 
+---
 > [!info] Statblock
 > ```statblock
 > name: Individual

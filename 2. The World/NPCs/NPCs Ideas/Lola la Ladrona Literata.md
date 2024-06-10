@@ -31,9 +31,9 @@ Location: What is the name of the place they live?
 > Character Role | `=this.character-role` |
 
 # `=this.file.name`
-## Profile
+## Perfil
 
-**Add description here**
+siempre tuvo un amor por los libros y la literatura, pero decidió que los robos eran una manera más emocionante de conseguir primeras ediciones raras. Conocida por dejar haikus en la escena del crimen, su objetivo final es completar su colección de libros robados antes de abrir una biblioteca clandestina.
 
 > [!info] Statblock
 > ```statblock

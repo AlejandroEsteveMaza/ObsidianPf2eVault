@@ -2,8 +2,8 @@
 icon: npc
 NoteType: NPC
 AssociatedGroup: Name of Guild or Group they belong to
-Gender: Male or Female or... 
-Race: Human, Dwarf, Elf, etc
+Gender: Female
+Race: Human, Elf
 Age: How old are they?
 Class: Warrior or Wizard or ... 
 Alignment: Are they Chaotic Neutral or Lawful Neutral
@@ -13,7 +13,7 @@ Location: What is the name of the place they live?
 
 > [!infobox]
 > # `=this.file.name`
-> ![[z_Assets/Misc/ImagePlaceholder.jpg|cover hsmall]]
+> ![[Vesperio.jpg|cover hsmall]]
 > ###### Basic Information
 > Type |  Stat |
 > ---|---|
@@ -44,7 +44,7 @@ Pistas: 
 
 - te engaña, te manda a robar algo a alguna casa, que en realidad es la suya y alli la party encuentra notas de loco escritas por él donde narra el Aliatham (discurso epoca oscuriodad). Quiere que te enteres de las cosas pero sin decirtelas directamente, juega con la gente
 - TIene una compresion superior al hablar con animales, mas potente que hechizo de hablar con animales
-- te ofrece comida que no es autoctona de la region (como si pudiera hacer crecer naranjos en el deseirto)
+- te ofrece comida que no es autoctona de la region (como si pudiera hacer crecer naranjos en el desierto)
 ---
 > [!info] Statblock
 > ```statblock

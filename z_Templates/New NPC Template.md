@@ -13,7 +13,7 @@ Location: What is the name of the place they live?
 
 > [!infobox]
 > # `=this.file.name`
-> ![[z_Assets/Misc/ImagePlaceholder.jpg|cover hsmall]]
+> ![[ImagePlaceholder.jpg|cover hsmall]]
 > ###### Basic Information
 > Type |  Stat |
 > ---|---|

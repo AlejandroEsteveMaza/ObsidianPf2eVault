@@ -13,7 +13,7 @@ Location: What is the name of the place they live?
 
 > [!infobox]
 > # `=this.file.name`
-> ![[z_Assets/Misc/ImagePlaceholder.jpg|cover hsmall]]
+> ![[Maximus_Augustus.jpg|cover hsmall]]
 > ###### Basic Information
 > Type |  Stat |
 > ---|---|
@@ -34,6 +34,7 @@ Location: What is the name of the place they live?
 ## Perfil
 
 **Marcus Valerius Maximus Augustus 10º** *“El eterno”* → Heraldo Divino
+Actual emperador del [[Civilizaciones#Imperio Romano|Imperio Romano]]
 
 ---
 

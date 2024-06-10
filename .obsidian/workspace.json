@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "98fc4b264ee3e770",
+        "id": "51ab837c3264980b",
         "type": "tabs",
         "children": [
           {
-            "id": "c13e8a73de9c80d3",
+            "id": "7347157daa75928e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. The World/NPCs/Heraldos/Vesperio.md",
-                "mode": "preview",
+                "file": "6. Lore/Encuentros.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. The World/NPCs/Heraldos/Vesperio.md",
+                "file": "6. Lore/Encuentros.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. The World/NPCs/Heraldos/Vesperio.md",
+                "file": "6. Lore/Encuentros.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,18 +179,21 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c13e8a73de9c80d3",
+  "active": "7347157daa75928e",
   "lastOpenFiles": [
     "2. The World/NPCs/Heraldos/Aegis el Grande.md",
     "2. The World/NPCs/Heraldos/Maximus Augustus.md",
     "2. The World/NPCs/Heraldos/Txun Shu Zu.md",
     "2. The World/NPCs/Heraldos/Vesperio.md",
     "z_Templates/New NPC Template.md",
+    "z_Assets/NPCs/Txun_Shu_Zu.jpg",
+    "z_Assets/NPCs/Vesperio.jpg",
+    "z_Assets/NPCs/Maximus_Augustus.jpg",
+    "6. Lore/Historia.md",
     "2. The World/NPCs/Heraldos",
     "6. Lore/Encuentros.md",
     "2. The World/NPCs/NPCs Ideas/Ciego Vidente.md",
     "2. The World/NPCs/NPCs Ideas/Bon Voyage.md",
-    "z_Assets/Txun_Shu_Zu.jpg",
     "z_Assets/NPCs/bon voyage.bmp",
     "z_Assets/NPCs",
     "2. The World/NPCs/NPCs Ideas/Ben Whittaker - Boxeador.md",
@@ -209,8 +212,6 @@
     "2. The World/NPCs/NPCs Ideas/Eve.md",
     "2. The World/NPCs/NPCs Ideas/Persona daltónica.md",
     "2. The World/NPCs/NPCs Ideas/Cojo con perro.md",
-    "2. The World/NPCs/NPCs.md",
-    "2. The World/NPCs/Test Josito.md",
     "2. The World/NPCs/NPCs Ideas",
     "6. Lore",
     "2. The World/Localizaciones/Asentamientos",
@@ -225,8 +226,6 @@
     "5. Mechanics/PF2E Remaster Community Content/Conditions/zz_asset-files/systems-pf2e-icons-conditions-unnoticed.webp",
     "5. Mechanics/PF2E Remaster Community Content/Conditions/zz_asset-files/systems-pf2e-icons-conditions-unfriendly.webp",
     "5. Mechanics/PF2E Remaster Community Content/Conditions/zz_asset-files/systems-pf2e-icons-conditions-undetected.webp",
-    "5. Mechanics/PF2E Remaster Community Content/Conditions/zz_asset-files/systems-pf2e-icons-conditions-stupefied.webp",
-    "5. Mechanics/PF2E Remaster Community Content/Conditions/zz_asset-files/systems-pf2e-icons-conditions-unconscious.webp",
     "Untitled.canvas"
   ]
 }

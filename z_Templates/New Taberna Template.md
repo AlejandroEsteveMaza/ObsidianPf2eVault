@@ -1,12 +1,9 @@
 ---
-icon: asentamiento
+icon: establecimiento
 NoteType: Localizacion
-Community-Size: Puesto Avanzado, Aldea, Pueblo, Villa, Ciudad
-Alignment: Chaotic Evil
-Government: Autocracy
-type: Castillo, Capital...
-politics: Lordship
-leader: 
+type: Taberna, Tienda...
+size: Grand, Pequeño, Mediano
+owner: name
 guildsgroups:
   - Thieves Guild 1
   - Cult 1
@@ -14,52 +11,31 @@ guildsgroups:
 region:
   - This area
   - Of this area
-size: Grand, Pequeño, Mediano | Puesto Avanzado, Aldea, Pueblo, Villa, Ciudad
-population: 0
+location: nombre ciudad
 commonraces:
   - Humans
   - Elves
   - Dwarves
-religion:
-  - Lathander
-exports:
-  - Something
-imports:
-  - Something Else
-defences:
 ---
 
 
 > [!infobox]
 > # **`=this.file.name`**
 > ![[MapPlaceholder.jpg|cover hsmall]]
-> ### **Geografia**
+> ### **Detalles del Establecimiento**
 > Type | Stat
 > --- | ---
-> Tipo |`=this.type`
-> Tamaño |`=this.size`
-> Region |`=this.region`
-> ###### **Politica**
-> Type | Stat
-> --- | ---
-> Govt Tipo |`=this.politics`
-> Gobernante |`=this.leader`
-> Defensas |`=this.defences`
+> Tipo | `=this.type`
+> Tamaño |  `=this.size`
+> Propietario |  `=this.owner`
+> Ubicación |  `=this.location`
+> Region |  `=this.region`
 > ###### **Organizaciones**
 > Type | Stat
 > --- | ---
-> Guilds & Groups |`=this.guildsgroups`
-> ###### **Sociedad**
-> Type | Stat
-> --- | ---
-> Poblacion |`=this.population`
-> Raza comunes |`=this.commonraces`
-> Templos |`=this.religion`
-> ###### **Comercio**
-> Type | Stat
-> --- | ---
-> Exportacion |`=this.exports`
-> Importacion |`=this.imports`
+> Guilds & Groups |  `=this.guildsgroups`
+> Raza comunes |  `=this.commonraces`
+
 
 
 # `=this.file.name`
@@ -74,30 +50,16 @@ Placeholder
 
 Placeholder
 
-## Notable NPCs
-Placeholder
-
-## Profile
-Placeholder
-
-## Historia
-Placeholder
-
-## Puntos de interés
-Placeholder
-
-## Valuables
-Placeholder
-
-## Relaciones Internas
-Placeholder
-
-## Relaciones externas
-Placeholder
-
-## Background
-Placeholder
-
+## Horario de Apertura 
+Horario en que el establecimiento está abierto al público. 
+## Especialidades 
+Productos o servicios especiales que ofrece el establecimiento. 
+## Atracciones 
+Atracciones y eventos especiales que se llevan a cabo en el establecimiento. 
+## Puntos de interés 
+Lugares de interés dentro del establecimiento. 
+## Productos y Servicios
+Productos y Servicios
 ## Detalles adicionales
 Placeholder
 

@@ -1,5 +1,5 @@
 ---
-icon: establecimiento
+icon: aentamiento
 NoteType: Localizacion
 Community-Size: Ciudad
 Alignment: Chaotic Evil

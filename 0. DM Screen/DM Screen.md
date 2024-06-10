@@ -1,7 +1,6 @@
 ---
 obsidianUIMode: preview
 ---
-![[DM Screen-20231230015527935.webp]]
 > [!NOTE]- Actions
 > **[[Skill Actions]]** 
 > [[Aid]]; [[Arrest a Fall]]; [[Avert Gaze]]  

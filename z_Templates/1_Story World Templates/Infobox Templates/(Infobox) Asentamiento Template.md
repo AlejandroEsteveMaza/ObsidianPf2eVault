@@ -1,6 +1,6 @@
 > [!infobox]
 > # **`=this.file.name`**
-> ![[Alejandria.jpg|cover hsmall]]
+> ![[MapPlaceholder.jpg|cover hsmall]]
 > ### **Geografia**
 > Type | Stat
 > --- | ---

@@ -64,11 +64,7 @@ defences:
 
 # `=this.file.name`
 ## Overview
-| Acceso rapido              |                                      |                                |
-| -------------------------- | ------------------------------------ | ------------------------------ |
-| **[[#Historia]]**          | [[#Equipo y personal]]               | **[[#Ambiente y decoración]]** |
-| [[#Ubicación]]             | **[[#Relaciones con la comunidad]]** | [[#Horario de Apertura]]       |
-| **[[#Puntos de interés]]** | [[#Eventos y Actividades]]           | **[[#Productos y Servicios]]** |
+Placeholder
 
 ### Map
 ![[MapPlaceholder.jpg|hmed]]
@@ -76,40 +72,32 @@ defences:
 ### Picture
 ![[ImagePlaceholder.jpg|hmed]]
 
-## Historia
-
-Placeholder
 
 ## Notable NPCs
-
 Placeholder
 
 ## Profile
+Placeholder
 
+## Historia
 Placeholder
 
 ## Puntos de interés
-
 Placeholder
 
 ## Valuables
-
 Placeholder
 
 ## Relaciones Internas
-
 Placeholder
 
 ## Relaciones externas
-
 Placeholder
 
 ## Background
-
 Placeholder
 
 ## Detalles adicionales
-
 Placeholder
 
 `=this.region`

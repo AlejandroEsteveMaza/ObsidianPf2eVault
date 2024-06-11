@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "ae314708f2f7177a",
+        "id": "51e12b96a9ec3d8c",
         "type": "tabs",
         "children": [
           {
-            "id": "684e97e458373283",
+            "id": "11bd9fdee0c78f49",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. The World/Localizaciones/Establecimientos/Taberna Aurelia.md",
+                "file": "2. The World/Localizaciones/Establecimientos/Establecimientos Genericos/Forja.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "a4e404931f179cd6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. The World/Localizaciones/Asentamientos/Civitas industrialis.md",
                 "mode": "preview",
                 "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. The World/Localizaciones/Establecimientos/Taberna Aurelia.md",
+                "file": "2. The World/Localizaciones/Asentamientos/Civitas industrialis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. The World/Localizaciones/Establecimientos/Taberna Aurelia.md",
+                "file": "2. The World/Localizaciones/Asentamientos/Civitas industrialis.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -181,17 +194,27 @@
   },
   "active": "a19bbbb6ac4dc7c1",
   "lastOpenFiles": [
-    "6. Lore/Civilizaciones.md",
-    "2. The World/Localizaciones/Asentamientos/Roma.md",
+    "2. The World/Localizaciones/Establecimientos/Establecimientos Genericos/Forja.md",
     "2. The World/Localizaciones/Asentamientos/Civitas industrialis.md",
-    "2. The World/Localizaciones/Asentamientos/Alejandria.md",
+    "6. Lore/Civilizaciones.md",
+    "z_Templates/New Establecimiento Template.md",
+    "2. The World/Localizaciones/Establecimientos/Establecimientos Genericos",
+    "2. The World/Localizaciones/Establecimientos/Untitled.md",
+    "6. Lore/Geografia.md",
+    "6. Lore/Encuentros_Eventos.md",
+    "z_Templates/New NPC Template.md",
+    "z_Templates/New Asentamiento Template.md",
     "2. The World/Localizaciones/Establecimientos/Taberna Aurelia.md",
+    "2. The World/Localizaciones/Asentamientos/Neopolis.md",
+    "2. The World/Localizaciones/Asentamientos/Roma.md",
+    "6. Lore/Historia - Aventura.md",
+    "6. Lore/Historia - Mundo.md",
+    "6. Lore/Teologia.md",
+    "2. The World/Localizaciones/Localizaciones.md",
+    "2. The World/Localizaciones/Asentamientos/Alejandria.md",
     "z_Assets/Civitas industrialis.jpg",
     "z_Assets/Taberna Aurelia.jpg",
     "z_Assets/Pasted image 20240611124723.png",
-    "z_Templates/New Establecimiento Template.md",
-    "z_Templates/New Asentamiento Template.md",
-    "z_Templates/New NPC Template.md",
     "z_Assets/Misc/MapPlaceholder.jpg",
     "z_Templates/Infobox Templates/(Infobox) Asentamiento Template.md",
     "1. Scratch Notes/templater try.md",
@@ -201,19 +224,10 @@
     "2. The World/Localizaciones/Posada.md",
     "2. The World/Localizaciones/Herreria.md",
     "2. The World/Localizaciones/Golarion.md",
-    "6. Lore/Encuentros - Eventos.md",
-    "6. Lore/Geografia.md",
     "2. The World/NPCs/Heraldos/Aegis el Grande.md",
-    "5. Mechanics/PF2E Remaster Community Content/Bestiary/bestiary-2/nuglub.md",
-    "2. The World/Mapas/Mapa del Mundo.md",
-    "2. The World/NPCs/NPCs.md",
-    "2. The World/NPCs/Heraldos/Maximus Augustus.md",
-    "2. The World/NPCs/Heraldos/Txun Shu Zu.md",
-    "2. The World/NPCs/Heraldos/Vesperio.md",
     "z_Assets/NPCs/Txun_Shu_Zu.jpg",
     "z_Assets/NPCs/Vesperio.jpg",
     "z_Assets/NPCs/Maximus_Augustus.jpg",
-    "6. Lore/Historia.md",
     "2. The World/NPCs/Heraldos",
     "z_Assets/NPCs/bon voyage.bmp",
     "z_Assets/NPCs",
@@ -225,7 +239,6 @@
     "2. Mechanics/Non-Player Characters",
     "2. Mechanics",
     "z_Assets/Misc/ImagePlaceholder.jpg",
-    "z_Assets/Misc",
     "5. Mechanics/PF2E Remaster Community Content/Conditions/zz_asset-files/systems-pf2e-icons-conditions-wounded.webp",
     "Untitled.canvas"
   ]

@@ -1,21 +1,14 @@
 ---
 icon: establecimiento
 NoteType: Localizacion
-type: Taberna, Tienda, Taller
-size: Grand, Pequeño, Mediano
-owner: name
+type: Taller
+size:
+owner:
 guildsgroups:
-  - Thieves Guild 1
-  - Cult 1
-  - Guilded 1
 region:
-  - This area
-  - Of this area
-location: nombre ciudad
+location:
 commonraces:
-  - Humans
-  - Elves
-  - Dwarves
+alias: forjas, forja
 ---
 
 
@@ -59,17 +52,11 @@ commonraces:
 ## Ubicación
 ## Relaciones con la comunidad
 ## Horario de Apertura 
-Horario en que el establecimiento está abierto al público. 
 ## Eventos y Actividades 
-Atracciones y eventos especiales que se llevan a cabo en el establecimiento. 
 ## Puntos de interés 
-Lugares de interés dentro del establecimiento. 
 ## Productos y Servicios
-Productos y Servicios
 ### Especialidades 
-Productos o servicios especiales que ofrece el establecimiento. 
 ## Detalles adicionales
-Placeholder
 
 `=this.region`
 

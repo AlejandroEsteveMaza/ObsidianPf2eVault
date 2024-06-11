@@ -64,7 +64,11 @@ defences:
 
 # `=this.file.name`
 ## Overview
-`=this.file.name` es una ciudad del imperio romano, este mundo es magico y mientras en otras ciudades se estan empezando a desarrollar dispositivos mecanicos que se alimentan de magia para funcionar, tanto esta ciudad como el imperio romano no son asi. `=this.file.name` es una ciudad altamente industrualizada, las fabricas son del estilo de la revolucion industrial britanica del año 1760. La ciudad es una amalgama de fabricas con viviendas para los trabajadores creadas a la carrera alrededor de las fabricas y sin ninguna planificacion urbanistica. La ciudad tiene barrios de ocio nocturno y de alterne donde los trabajadores van a matar el tiempo. La ciudad tiene mafia que se mueve por los distritos de la ciudad, los cuales gestionan droga, seguridad, extorsion y prostitucion.
+- `=this.file.name` es una ciudad del imperio romano, este mundo es magico y mientras en otras ciudades se estan empezando a desarrollar dispositivos mecanicos que se alimentan de magia para funcionar, tanto esta ciudad como el imperio romano no son asi. 
+- `=this.file.name` es una ciudad altamente industrualizada. 
+- La ciudad es una amalgama de fabricas con viviendas para los trabajadores creadas a la carrera alrededor de las fabricas y sin ninguna planificacion urbanistica. 
+- La ciudad tiene barrios de ocio nocturno y de alterne donde los trabajadores van a matar el tiempo. 
+- La ciudad tiene mafia que se mueve por los distritos de la ciudad, los cuales gestionan droga, seguridad, extorsion y prostitucion.
 
 ### Map
 ![[MapPlaceholder.jpg|hmed]]
@@ -81,6 +85,7 @@ defences:
 
 ## Profile
 **`=this.file.name`** es una ciudad densamente poblada del Imperio Romano, conocida por su alto nivel de industrialización. Las fábricas dominan el paisaje urbano, y las viviendas de los trabajadores están abarrotadas alrededor de estas fábricas sin ningún plan urbanístico. La ciudad es un crisol de actividad económica y social, con una próspera pero peligrosa vida nocturna y una mafia omnipresente que controla varios distritos.
+- Las [[Forja|forjas]] de las fabricas se alimentan del agua que es transportada por los acueductos. 🌉
 
 ## Historia
 Fundada como un pequeño asentamiento para la producción de bienes básicos, `=this.file.name` creció rápidamente con la revolución industrial del imperio. En un corto periodo, las fábricas comenzaron a surgir por toda la ciudad, atrayendo a trabajadores de todos los rincones del imperio. Sin embargo, la rápida expansión no estuvo acompañada de una planificación urbana adecuada, lo que resultó en un paisaje caótico y abarrotado. La necesidad de entretenimiento y escapismo llevó al florecimiento de barrios de ocio nocturno, mientras que la falta de control y la corrupción dieron lugar a una mafia poderosa que ahora gobierna las sombras de la ciudad.
@@ -91,6 +96,7 @@ Fundada como un pequeño asentamiento para la producción de bienes básicos, `=
 - **[[Taberna Aurelia]]** - El bar más famoso, conocido por sus bebidas exóticas y espectáculos nocturnos.
 - **Suburbium Mechanicus** - Un pequeño distrito donde Lucius Varro y otros inventores clandestinos operan.
 - **Forum Securitas** - La sede de la organización mafiosa dirigida por Livia Octavia.
+- **Acueductos**🌉 - Sistema de irrigación kilometrico que transporta agua desde el otro lado de las montañas o desde la cima de estas
 
 ## Valuables
 - **Codex Mechanicus** - Un libro de diseños secretos para dispositivos mágicos, buscado tanto por industriales como por la mafia.

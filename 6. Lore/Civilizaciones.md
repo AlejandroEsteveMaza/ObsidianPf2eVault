@@ -42,8 +42,6 @@ El Reino de Kush, con su capital en Meroe (actual Sudán), fue una civilización
 
 La antigua Grecia es conocida por su impacto en la filosofía, la democracia, el arte, la ciencia, la literatura y la arquitectura. La Grecia clásica fue el hogar de grandes pensadores como Sócrates, Platón y Aristóteles, así como de grandes poetas y dramaturgos como Homero, Esquilo y Sófocles.
 
-  
-
 Griego antiguo: La sociedad griega antigua estaba formada por polis (ciudades-estado) independientes que se extendían por la región del Mediterráneo oriental y la península griega. Era conocida por su influencia en la filosofía, la política, el arte y la literatura. La democracia ateniense, las epopeyas de Homero y los Juegos Olímpicos son algunos de sus legados más destacados.
 
 Nombre planeta: Gaia
@@ -54,16 +52,11 @@ En la mitología griega, "Gaia" es la personificación de la Tierra, la madre pr
 
 La influencia del Imperio Romano en la historia occidental y más allá es innegable. Desde sus conquistas militares hasta su administración eficiente, pasando por su sistema legal, ingeniería, arquitectura y difusión del cristianismo, el legado romano ha perdurado a lo largo de los siglos.
 
-  
-
 Latín: La sociedad romana era una civilización antigua ubicada en la península itálica que eventualmente se expandió para formar el Imperio Romano. Fue una sociedad altamente organizada, con una estructura política que incluía la República y luego el Imperio, con una economía basada en la agricultura, el comercio y la esclavitud.
-
 
 Dos ciudades principales, una altamente industrial, donde las casas se apelotonan alrededor de las fabricas. Y [[roma]] la ciudad del emperador.
 
-
 El territorio romano se extiende a lo largo de un valle glacial de sur a norte terminando en la zona helada. A lo largo del valle hay un río congelado subterráneo del que extraen agua todos lo pueblos en la zona central del valle
-
 
 Nombre planeta: tierra
 
@@ -73,14 +66,11 @@ Actualmente: 
 - muro separador
 - Alto nivel de industrialización no magica
 - Sus tropas no usan magia
-
-  
+- En [[Civitas industrialis]] se está forjando material belico como para empezar una gran guerra
 
 # Civilización China
 
 La antigua civilización china, con una historia que se remonta a miles de años, ha dejado un impacto significativo en la historia mundial. Desde sus logros en la tecnología, la filosofía, el arte y la literatura hasta su larga historia política y cultural, China ha sido una fuerza influyente en Asia y más allá.
-
-  
 
 Nombre tierra: Shénzhōu
 

@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "ef34a3f4335deba7",
+        "id": "5ff7ead307393855",
         "type": "tabs",
         "children": [
           {
-            "id": "03719cb665431a4d",
+            "id": "8e4238453f6b94da",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6. Lore Enciclopedia/Civilizaciones/Imperio Romano.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "93c1760767b6adf2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. The World/Localizaciones/Asentamientos/Roma.md",
+                "file": "6. Lore Enciclopedia/Frases.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -61,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "this.file.name",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. The World/Localizaciones/Asentamientos/Roma.md",
+                "file": "6. Lore Enciclopedia/Frases.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. The World/Localizaciones/Asentamientos/Roma.md",
+                "file": "6. Lore Enciclopedia/Frases.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -192,11 +179,20 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a19bbbb6ac4dc7c1",
+  "active": "8e4238453f6b94da",
   "lastOpenFiles": [
-    "z_Templates/New Asentamiento Template.md",
-    "2. The World/Localizaciones/Asentamientos/Roma.md",
+    "6. Lore Enciclopedia/Geografia.md",
     "6. Lore Enciclopedia/Civilizaciones/Imperio Romano.md",
+    "6. Lore Enciclopedia/Untitled.md",
+    "z_Templates/Infobox Templates/(Infobox) Asentamiento Template.md",
+    "6. Lore Enciclopedia/Civilizaciones/Civilización China.md",
+    "z_Templates/New Asentamiento Template.md",
+    "z_Templates/New Establecimiento Template.md",
+    "6. Lore Enciclopedia/Energia, Huespedes, Heraldos.md",
+    "2. The World/Localizaciones/Asentamientos/Brundis.md",
+    "2. The World/Localizaciones/Asentamientos/Civitas industrialis.md",
+    "2. The World/Localizaciones/Asentamientos/Neapolis.md",
+    "2. The World/Localizaciones/Asentamientos/Roma.md",
     "6. Lore Enciclopedia/Origen del Mundo.md",
     "2. The World/NPCs/Scratch NPCs Ideas/Eve.md",
     "6. Lore Enciclopedia/Biologia.md",
@@ -210,18 +206,9 @@
     "5. Mechanics/Razas",
     "5. Mechanics/Untitled.md",
     "6. Lore Enciclopedia/Civilizaciones.md",
-    "6. Lore Enciclopedia/Civilizaciones/Civilización China.md",
     "6. Lore Enciclopedia/Civilizaciones/Civilización Griega.md",
     "6. Lore Enciclopedia/Civilizaciones/Civilización Egipcia.md",
-    "6. Lore Enciclopedia/Civilizaciones/Civilización Mesopotámica.md",
-    "2. The World/NPCs/Heraldos/Maximus Augustus.md",
-    "6. Lore Enciclopedia/Energia, Huespedes, Heraldos.md",
     "6. Lore Enciclopedia/Civilizaciones",
-    "2. The World/NPCs/Heraldos/Aegis el Grande.md",
-    "z_Templates/New NPC Template.md",
-    "2. The World/NPCs/Heraldos/Vesperio.md",
-    "2. The World/NPCs/Heraldos/Txun Shu Zu.md",
-    "2. The World/NPCs/NPCs.md",
     "3. The Party/Nombre Aventura",
     "4. Session Journals/Nombre Aventura/Acto 1",
     "4. Session Journals/Nombre Aventura/Tablero de viaje.canvas",

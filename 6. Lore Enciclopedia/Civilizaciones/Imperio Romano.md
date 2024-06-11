@@ -21,3 +21,19 @@ Nombre planeta: tierra
 ### Caracteristicas
 - Viñedos
 - Alcornoques - el corcho tiene aplicaciónes infinitas, El corcho tarda 10 años en crecer, los arboles se marcan con numeros psra saber el ultimo año que crecieron
+
+### Infraestructura
+- 🛣️ Vias Magnas
+	- Autovias oficiales entre puntos reseñables
+	- Peajes, impuestos y controles
+	- Hay caminos secundarios por la naturaleza
+- 
+
+
+
+### Asentamientos del `=this.file.name`
+```dataview
+table Community-Size, Government, type, politics, leader, population
+where NoteType = "Localizacion" AND Civilizacion = "Imperio Romano"
+```
+

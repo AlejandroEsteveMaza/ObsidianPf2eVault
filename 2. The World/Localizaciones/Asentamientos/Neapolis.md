@@ -1,6 +1,7 @@
 ---
 icon: asentamiento
 NoteType: Localizacion
+Civilizacion: Imperio Romano
 Community-Size: Puesto Avanzado, Aldea, Pueblo, Villa, Ciudad
 Alignment: Chaotic Evil
 Government: Autocracy

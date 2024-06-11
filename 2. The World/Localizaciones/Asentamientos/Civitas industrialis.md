@@ -1,6 +1,7 @@
 ---
 icon: asentamiento
 NoteType: Localizacion
+Civilizacion: Imperio Romano
 Community-Size: Ciudad
 Alignment: Legal Neutral
 Government: Autocracy

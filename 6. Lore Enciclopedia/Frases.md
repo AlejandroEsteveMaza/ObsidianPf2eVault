@@ -1,12 +1,4 @@
-Porque democracia significa básicamente...  el gobierno del pueblo, por el pueblo y para el pueblo.... pero el pueblo es retrasado
-
----
-
-Memento mori, recuerda que moriras
-
----
-
-Carpe diem
-
----
-
+- Roma Soy yo
+- Carpe diem
+- Memento mori, recuerda que moriras
+- Porque democracia significa básicamente...  el gobierno del pueblo, por el pueblo y para el pueblo.... pero el pueblo es retrasado

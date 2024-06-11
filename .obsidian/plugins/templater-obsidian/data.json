@@ -23,8 +23,8 @@
       "template": "z_Templates/New Asentamiento Template.md"
     },
     {
-      "folder": "2. The World/Localizaciones/Tabernas",
-      "template": "z_Templates/New Taberna Template.md"
+      "folder": "2. The World/Localizaciones/Establecimientos",
+      "template": "z_Templates/New Establecimiento Template.md"
     }
   ],
   "syntax_highlighting": true,

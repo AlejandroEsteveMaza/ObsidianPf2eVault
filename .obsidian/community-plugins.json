@@ -12,5 +12,6 @@
   "obsidian-leaflet-plugin",
   "fantasy-content-generator",
   "language-translator",
-  "templater-obsidian"
+  "templater-obsidian",
+  "global-search-and-replace"
 ]

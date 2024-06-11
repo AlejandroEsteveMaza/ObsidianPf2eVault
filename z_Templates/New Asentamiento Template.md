@@ -66,13 +66,12 @@ defences:
 ## Overview
 Placeholder
 
-### Placeholder Map
-![[MapPlaceholder.jpg|Placeholder Map]]
+### Map
+![[MapPlaceholder.jpg|hmed]]
 
-### Placeholder Picture
-![[ImagePlaceholder.jpg|Placeholder Picture]]
+### Picture
+![[ImagePlaceholder.jpg|hmed]]
 
-Placeholder
 
 ## Notable NPCs
 Placeholder

@@ -59,7 +59,7 @@ La influencia del Imperio Romano en la historia occidental y más allá es inneg
 Latín: La sociedad romana era una civilización antigua ubicada en la península itálica que eventualmente se expandió para formar el Imperio Romano. Fue una sociedad altamente organizada, con una estructura política que incluía la República y luego el Imperio, con una economía basada en la agricultura, el comercio y la esclavitud.
 
 
-Dos ciudades principales, una altamente industrial, donde las casas se apelotonan alrededor de las fabricas. Y roma la ciudad del emperador.
+Dos ciudades principales, una altamente industrial, donde las casas se apelotonan alrededor de las fabricas. Y [[roma]] la ciudad del emperador.
 
 
 El territorio romano se extiende a lo largo de un valle glacial de sur a norte terminando en la zona helada. A lo largo del valle hay un río congelado subterráneo del que extraen agua todos lo pueblos en la zona central del valle
@@ -94,7 +94,7 @@ Nombre tierra: Shénzhōu
 Los fenicios fueron un pueblo semítico que habitaba en la costa oriental del Mediterráneo, en lo que ahora es el Líbano, en el primer milenio a.C. Eran conocidos como hábiles navegantes y comerciantes, y establecieron colonias a lo largo de la costa mediterránea. La sociedad fenicia estaba organizada en ciudades-estado independientes y era conocida por su alfabeto, que influyó en sistemas de escritura posteriores.
 
 ## Etrusco
-Los etruscos fueron un antiguo pueblo que habitaba en la región de Etruria, en la Italia central, antes de la ascensión de Roma. Eran conocidos por su arte, arquitectura y prácticas religiosas únicas. La sociedad etrusca estaba organizada en ciudades-estado y ejerció una fuerte influencia en la cultura romana.
+Los etruscos fueron un antiguo pueblo que habitaba en la región de Etruria, en la Italia central, antes de la ascensión de [[Roma]]. Eran conocidos por su arte, arquitectura y prácticas religiosas únicas. La sociedad etrusca estaba organizada en ciudades-estado y ejerció una fuerte influencia en la cultura romana.
 
 ## Hitita
 El Imperio Hitita fue una potencia en la Anatolia central (actual Turquía) durante el segundo milenio a.C. La sociedad hitita era una sociedad agraria con una fuerte influencia militar y una compleja estructura política. Eran conocidos por sus leyes, su arte y su religión politeísta.

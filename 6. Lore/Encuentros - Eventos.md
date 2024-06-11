@@ -22,6 +22,11 @@ estatuas reflejadas en el suelo que siguen la luz (acertijo)
 El flujo del agua ha dejado de llegar desde el acueducto
 
 ----
+Diluvio
+
+Estar a la intemperie en una tormenta da miedo y es peligroso, verla venir es aterrador 
+
+Quedar atrapado con alguien en una cueva dirante una tormenta
 
 ----
 

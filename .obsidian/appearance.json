@@ -1,6 +1,6 @@
 {
   "cssTheme": "ITS Theme",
-  "theme": "system",
-  "baseFontSize": 19,
+  "theme": "moonstone",
+  "baseFontSize": 20,
   "baseFontSizeAction": true
 }

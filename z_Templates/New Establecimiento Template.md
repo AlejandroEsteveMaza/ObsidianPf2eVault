@@ -40,26 +40,34 @@ commonraces:
 
 # `=this.file.name`
 ## Overview
-Placeholder
 
-### Placeholder Map
-![[MapPlaceholder.jpg|Placeholder Map]]
+| Acceso rapido              |                                      |                                |
+| -------------------------- | ------------------------------------ | ------------------------------ |
+| **[[#Historia]]**          | [[#Equipo y personal]]               | **[[#Ambiente y decoración]]** |
+| [[#Ubicación]]             | **[[#Relaciones con la comunidad]]** | [[#Horario de Apertura]]       |
+| **[[#Puntos de interés]]** | [[#Eventos y Actividades]]           | **[[#Productos y Servicios]]** |
 
-### Placeholder Picture
-![[ImagePlaceholder.jpg|Placeholder Picture]]
+### Map
+![[MapPlaceholder.jpg|hmed]]
 
-Placeholder
+### Picture
+![[ImagePlaceholder.jpg|hmed]]
 
+## Historia
+## Equipo y personal
+## Ambiente y decoración
+## Ubicación
+## Relaciones con la comunidad
 ## Horario de Apertura 
 Horario en que el establecimiento está abierto al público. 
-## Especialidades 
-Productos o servicios especiales que ofrece el establecimiento. 
-## Atracciones 
+## Eventos y Actividades 
 Atracciones y eventos especiales que se llevan a cabo en el establecimiento. 
 ## Puntos de interés 
 Lugares de interés dentro del establecimiento. 
 ## Productos y Servicios
 Productos y Servicios
+### Especialidades 
+Productos o servicios especiales que ofrece el establecimiento. 
 ## Detalles adicionales
 Placeholder
 

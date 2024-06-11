@@ -1,3 +1,8 @@
+
+El continente tiene una extensión horizontal de **8000 km** , medida desde sus puntos más lejanos
+
+----
+
 ```leaflet
 ### id must be unique  
 id: Faerun_Map  

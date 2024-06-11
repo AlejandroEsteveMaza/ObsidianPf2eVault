@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "51ab837c3264980b",
+        "id": "ae314708f2f7177a",
         "type": "tabs",
         "children": [
           {
-            "id": "7347157daa75928e",
+            "id": "684e97e458373283",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6. Lore/Encuentros.md",
-                "mode": "source",
+                "file": "2. The World/Localizaciones/Establecimientos/Taberna Aurelia.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Nuglub",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,14 +85,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6. Lore/Encuentros.md",
+                "file": "2. The World/Localizaciones/Establecimientos/Taberna Aurelia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -102,9 +102,9 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "6. Lore/Encuentros.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "file": "2. The World/Localizaciones/Establecimientos/Taberna Aurelia.md",
+                "linksCollapsed": true,
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -179,53 +179,54 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "7347157daa75928e",
+  "active": "a19bbbb6ac4dc7c1",
   "lastOpenFiles": [
+    "6. Lore/Civilizaciones.md",
+    "2. The World/Localizaciones/Asentamientos/Roma.md",
+    "2. The World/Localizaciones/Asentamientos/Civitas industrialis.md",
+    "2. The World/Localizaciones/Asentamientos/Alejandria.md",
+    "2. The World/Localizaciones/Establecimientos/Taberna Aurelia.md",
+    "z_Assets/Civitas industrialis.jpg",
+    "z_Assets/Taberna Aurelia.jpg",
+    "z_Assets/Pasted image 20240611124723.png",
+    "z_Templates/New Establecimiento Template.md",
+    "z_Templates/New Asentamiento Template.md",
+    "z_Templates/New NPC Template.md",
+    "z_Assets/Misc/MapPlaceholder.jpg",
+    "z_Templates/Infobox Templates/(Infobox) Asentamiento Template.md",
+    "1. Scratch Notes/templater try.md",
+    "1. Scratch Notes/Statblock test.md",
+    "1. Scratch Notes/random generator.md",
+    "1. Scratch Notes/sql.md",
+    "2. The World/Localizaciones/Posada.md",
+    "2. The World/Localizaciones/Herreria.md",
+    "2. The World/Localizaciones/Golarion.md",
+    "6. Lore/Encuentros - Eventos.md",
+    "6. Lore/Geografia.md",
     "2. The World/NPCs/Heraldos/Aegis el Grande.md",
+    "5. Mechanics/PF2E Remaster Community Content/Bestiary/bestiary-2/nuglub.md",
+    "2. The World/Mapas/Mapa del Mundo.md",
+    "2. The World/NPCs/NPCs.md",
     "2. The World/NPCs/Heraldos/Maximus Augustus.md",
     "2. The World/NPCs/Heraldos/Txun Shu Zu.md",
     "2. The World/NPCs/Heraldos/Vesperio.md",
-    "z_Templates/New NPC Template.md",
     "z_Assets/NPCs/Txun_Shu_Zu.jpg",
     "z_Assets/NPCs/Vesperio.jpg",
     "z_Assets/NPCs/Maximus_Augustus.jpg",
     "6. Lore/Historia.md",
     "2. The World/NPCs/Heraldos",
-    "6. Lore/Encuentros.md",
-    "2. The World/NPCs/NPCs Ideas/Ciego Vidente.md",
-    "2. The World/NPCs/NPCs Ideas/Bon Voyage.md",
     "z_Assets/NPCs/bon voyage.bmp",
     "z_Assets/NPCs",
-    "2. The World/NPCs/NPCs Ideas/Ben Whittaker - Boxeador.md",
-    "2. The World/NPCs/NPCs Ideas/Ursula la Úrsida Ultrasonica.md",
-    "2. The World/NPCs/NPCs Ideas/Renato el Ranger Risueño.md",
-    "2. The World/NPCs/NPCs Ideas/Violeta la Vidente Vaga.md",
-    "2. The World/NPCs/NPCs Ideas/Teodoro el Trovador Torpe.md",
-    "2. The World/NPCs/NPCs Ideas/Selene la Sacerdotisa Somnolienta.md",
-    "2. The World/NPCs/NPCs Ideas/Hugo el Hechicero Hipocondríaco.md",
-    "2. The World/NPCs/NPCs Ideas/Greta la Guerrera Glotona.md",
-    "2. The World/NPCs/NPCs Ideas/Frodo el Forastero Fabuloso.md",
-    "2. The World/NPCs/NPCs Ideas/Lola la Ladrona Literata.md",
-    "2. The World/NPCs/NPCs Ideas/Bartolomeo el Bárbaro Bailarín.md",
-    "2. The World/NPCs/NPCs Ideas/Langosta Nancy.md",
-    "2. The World/NPCs/NPCs Ideas/Ruso - Soprano.md",
-    "2. The World/NPCs/NPCs Ideas/Eve.md",
-    "2. The World/NPCs/NPCs Ideas/Persona daltónica.md",
-    "2. The World/NPCs/NPCs Ideas/Cojo con perro.md",
     "2. The World/NPCs/NPCs Ideas",
     "6. Lore",
     "2. The World/Localizaciones/Asentamientos",
     "2. The World/Localizaciones/Establecimientos",
-    "z_Assets/Misc/MapPlaceholder.jpg",
     "z_Templates/4_Markdown/Buttons",
     "2. Mechanics/Non-Player Characters",
     "2. Mechanics",
     "z_Assets/Misc/ImagePlaceholder.jpg",
     "z_Assets/Misc",
     "5. Mechanics/PF2E Remaster Community Content/Conditions/zz_asset-files/systems-pf2e-icons-conditions-wounded.webp",
-    "5. Mechanics/PF2E Remaster Community Content/Conditions/zz_asset-files/systems-pf2e-icons-conditions-unnoticed.webp",
-    "5. Mechanics/PF2E Remaster Community Content/Conditions/zz_asset-files/systems-pf2e-icons-conditions-unfriendly.webp",
-    "5. Mechanics/PF2E Remaster Community Content/Conditions/zz_asset-files/systems-pf2e-icons-conditions-undetected.webp",
     "Untitled.canvas"
   ]
 }

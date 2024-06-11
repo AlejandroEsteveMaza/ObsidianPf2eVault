@@ -23,7 +23,7 @@ Son capaces de recibir las visiones
 No todo el mundo recibe las visiones por igual (Cantidad y frecuencia).
 
 
-Palabra “Heraldo” en los distintos idiomas muertos:
+#### Palabra “Heraldo” en los distintos idiomas muertos:
 
 | Civilizavion                                              | Nombre         |
 | --------------------------------------------------------- | -------------- |

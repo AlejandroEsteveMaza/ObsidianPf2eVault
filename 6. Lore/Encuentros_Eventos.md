@@ -30,4 +30,6 @@ Quedar atrapado con alguien en una cueva dirante una tormenta
 
 ----
 
+Encuentro con [[Darinor]] y [[Liu-Chen]] transportando a Danso
+
 ----

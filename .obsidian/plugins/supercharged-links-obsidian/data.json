@@ -60,6 +60,30 @@
       "selectAppend": true,
       "selectPrepend": true,
       "selectBackground": true
+    },
+    {
+      "type": "attribute",
+      "name": "icon",
+      "value": "jugador",
+      "matchCaseSensitive": false,
+      "match": "exact",
+      "uid": "d441-b598",
+      "selectText": true,
+      "selectAppend": true,
+      "selectPrepend": true,
+      "selectBackground": true
+    },
+    {
+      "type": "attribute",
+      "name": "icon",
+      "value": "sesion",
+      "matchCaseSensitive": false,
+      "match": "exact",
+      "uid": "ded1-237e",
+      "selectText": true,
+      "selectAppend": true,
+      "selectPrepend": true,
+      "selectBackground": true
     }
   ]
 }

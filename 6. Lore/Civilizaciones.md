@@ -60,13 +60,17 @@ El territorio romano se extiende a lo largo de un valle glacial de sur a norte t
 
 Nombre planeta: tierra
 
-Actualmente: 
+### Actualmente: 
 
 - están invadiendo Kush (Meroiticos)
 - muro separador
 - Alto nivel de industrialización no magica
 - Sus tropas no usan magia
 - En [[Civitas industrialis]] se está forjando material belico como para empezar una gran guerra
+
+### Caracteristicas
+- Viñedos
+- Alcornoques - el corcho tiene aplicaciónes infinitas, El corcho tarda 10 años en crecer, los arboles se marcan con numeros psra saber el ultimo año que crecieron
 
 # Civilización China
 

@@ -1,6 +1,6 @@
 {
   "command_timeout": 5,
-  "templates_folder": "z_Templates",
+  "templates_folder": "",
   "templates_pairs": [
     [
       "",
@@ -25,6 +25,14 @@
     {
       "folder": "2. The World/Localizaciones/Establecimientos",
       "template": "z_Templates/New Establecimiento Template.md"
+    },
+    {
+      "folder": "3. The Party",
+      "template": "z_Templates/New Jugador Template.md"
+    },
+    {
+      "folder": "4. Session Journals",
+      "template": "z_Templates/New Sesion Template.md"
     }
   ],
   "syntax_highlighting": true,

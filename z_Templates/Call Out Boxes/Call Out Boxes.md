@@ -1,0 +1,1 @@
+[Call Out Boxes - Guia](https://obsidianttrpgtutorials.com/Obsidian+TTRPG+Tutorials/Templates/Callout+Templates)

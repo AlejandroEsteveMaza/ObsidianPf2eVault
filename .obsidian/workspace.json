@@ -4,40 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "f8221e00027ab888",
+        "id": "2b7ba2608df27349",
         "type": "tabs",
         "children": [
           {
-            "id": "a012115502c140ad",
+            "id": "e6d99c1f7290d891",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6. Lore/Historia - Aventura.md",
+                "file": "6. Lore/Historia - Mundo.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "b825bbb0d42798ec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6. Lore/Teologia.md",
                 "mode": "preview",
                 "source": true
               }
             }
           }
-        ]
-      },
-      {
-        "id": "27253e6824379eb2",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "467e98a13b2e82c4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6. Lore/Civilizaciones.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -66,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Alcorno",
+                "query": "Aliatham",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -103,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6. Lore/Historia - Aventura.md",
+                "file": "6. Lore/Teologia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "6. Lore/Historia - Aventura.md",
+                "file": "6. Lore/Teologia.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -197,20 +192,21 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a19bbbb6ac4dc7c1",
+  "active": "b825bbb0d42798ec",
   "lastOpenFiles": [
-    "z_Templates/Call Out Boxes/Call Out - Question.md",
+    "6. Lore/Historia - Mundo.md",
+    "6. Lore/Sin clasificar.md",
+    "6. Lore/Teologia.md",
+    "2. The World/NPCs/Heraldos/Vesperio.md",
     "6. Lore/Historia - Aventura.md",
+    "z_Templates/Call Out Boxes/Call Out - Question.md",
     "z_Templates/Call Out Boxes/Call Out - Failure.md",
     "z_Templates/Call Out Boxes/Call Out Boxes.md",
     "6. Lore/Civilizaciones.md",
-    "6. Lore/Sin clasificar.md",
     "4. Session Journals/Nombre Aventura/Nombre Aventura.md",
     "2. The World/NPCs/Heraldos/Maximus Augustus.md",
     "2. The World/Localizaciones/Asentamientos/Brundis.md",
-    "6. Lore/Teologia.md",
     "2. The World/Localizaciones/Asentamientos/Neapolis.md",
-    "6. Lore/Historia - Mundo.md",
     "2. The World/Mapas/Mapa del Mundo.md",
     "2. The World/NPCs/NPCs Ideas/Bartolomeo el Bárbaro Bailarín.md",
     "2. The World/NPCs/Heraldos/Aegis el Grande.md",
@@ -224,7 +220,6 @@
     "4. Session Journals/Nombre Aventura/Acto 1/Acto 1.md",
     "3. The Party/Nombre Aventura/Nombre Aventura.md",
     "3. The Party/Nombre Aventura/Jugador 1.md",
-    "z_Templates/New Jugador Template.md",
     "3. The Party/Nombre Aventura",
     "4. Session Journals/Nombre Aventura/Acto 1",
     "4. Session Journals/Nombre Aventura/Tablero de viaje.canvas",

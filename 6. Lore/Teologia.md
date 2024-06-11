@@ -28,3 +28,5 @@ Palabra “Heraldo” en los distintos idiomas muertos:
 | [[Civilizaciones#Civilización Mesopotámica\|Mesopotamia]] | 𒅴𒋾𒀸𒀸 (nagīrum) |
 | [[Civilizaciones#Civilización China\|Chino]]              | shǐzhě         |
 
+# Herencias
+Hay Razas descendientes de los monstruos previos al [[Historia - Mundo#Aliatham|Aliatham]], estos tienen un gen primitivo que con los cambios se despierta y cambian

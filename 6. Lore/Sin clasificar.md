@@ -22,3 +22,7 @@ Nombres Ciudades Imperio Romano:
 - **Luxus Portus**
 - **Silva Tenebris**
 - **Aeternum Castellum**
+
+---
+
+Uno de los jugadores es un heraldo de rango bajo por lo que ve pocas visiones,

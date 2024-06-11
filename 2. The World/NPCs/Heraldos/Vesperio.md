@@ -33,7 +33,7 @@ Location: What is the name of the place they live?
 # `=this.file.name`
 ## Perfil
 
-**Vesperio** → Huésped Primal Aliatham  es una especie de vagamundo viajero manipulador encubierto.
+**Vesperio** → Huésped Primal [[Historia - Mundo#Aliatham|Aliatham]]  es una especie de vagamundo viajero manipulador encubierto.
 
 - Guardián de los Bosques Antiguos →  nombre de leyendas
 - Envía  plaga a Egipto con el objetivo de que los romanos abran la muralla y crucen la frontera para poder estar cerca del emperador y conseguir su poder
@@ -42,7 +42,7 @@ Intenciones: convencer a la party de que mate al emperador para asi liberar su e
 
 Pistas: 
 
-- te engaña, te manda a robar algo a alguna casa, que en realidad es la suya y alli la party encuentra notas de loco escritas por él donde narra el Aliatham (discurso epoca oscuriodad). Quiere que te enteres de las cosas pero sin decirtelas directamente, juega con la gente
+- te engaña, te manda a robar algo a alguna casa, que en realidad es la suya y alli la party encuentra notas de loco escritas por él donde narra el [[Historia - Mundo#Aliatham|Aliatham]] (discurso epoca oscuriodad). Quiere que te enteres de las cosas pero sin decirtelas directamente, juega con la gente
 - TIene una compresion superior al hablar con animales, mas potente que hechizo de hablar con animales
 - te ofrece comida que no es autoctona de la region (como si pudiera hacer crecer naranjos en el desierto)
 ---

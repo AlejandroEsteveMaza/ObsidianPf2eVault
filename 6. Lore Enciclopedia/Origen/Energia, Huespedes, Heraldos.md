@@ -5,27 +5,26 @@
 - Divina 
 
 # Huespedes
-🧙‍♂️ 4 huespedes de las magias
+🧙‍♂️ 4 [[Huespedes]] de las magias
 
 **Objetivo**: 
 1. Cumplir el deber de cada energia 
 2. Procurar que las energias se mantengan separadas.
-- Los huespedes originales forjaron un pacto que les impide actuar entre ellos directamente.
+- Los [[Huespedes]] originales forjaron un pacto que les impide actuar entre ellos directamente.
 
 
 
 
 ## Heraldos
 
-Estos son aquellas personas con el [[Biologia#Gen recesivo]] 
+- Son capaces de recibir las visiones
+	- No todo el mundo recibe las visiones por igual (Cantidad y frecuencia).
+- Estos son aquellas personas con el [[Biologia#Gen recesivo]] 
 
-Son capaces de recibir las visiones
-No todo el mundo recibe las visiones por igual (Cantidad y frecuencia).
 
+#### Palabra “Heraldo” en los distintos idiomas :
 
-#### Palabra “Heraldo” en los distintos idiomas muertos:
-
-| Civilizavion                                              | Nombre         |
+| Civilizacion                                              | Nombre         |
 | --------------------------------------------------------- | -------------- |
 | [[Imperio Romano\|Latín]]                  | Nuntius        |
 | [[Civilización Griega\|Griego]]            | Κῆρυξ (Kḗryx)  |

@@ -1,6 +1,7 @@
 ---
 icon: npc
 NoteType: NPC
+IsHeraldo: "true"
 AssociatedGroup: Name of Guild or Group they belong to
 Gender: Male or Female or... 
 Race: Human, Dwarf, Elf, etc

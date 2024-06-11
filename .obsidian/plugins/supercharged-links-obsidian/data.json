@@ -84,6 +84,18 @@
       "selectAppend": true,
       "selectPrepend": true,
       "selectBackground": true
+    },
+    {
+      "type": "attribute",
+      "name": "icon",
+      "value": "raza",
+      "matchCaseSensitive": false,
+      "match": "exact",
+      "uid": "f0d0-1c5a",
+      "selectText": true,
+      "selectAppend": true,
+      "selectPrepend": true,
+      "selectBackground": true
     }
   ]
 }

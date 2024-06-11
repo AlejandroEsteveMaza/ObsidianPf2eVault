@@ -37,6 +37,8 @@ persona con enanismo que se hace pasar por niña pequeña
 
 pone voz de niña
 
+Eve está intentando llegar al torneo de magos, que muere violada por algum cabron que se entera de su secreto que el grupo haya ayudado previamente en neopolis
+
 > [!info] Statblock
 > ```statblock
 > name: Individual

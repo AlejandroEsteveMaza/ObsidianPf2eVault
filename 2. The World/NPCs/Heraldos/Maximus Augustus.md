@@ -1,6 +1,7 @@
 ---
 icon: npc
 NoteType: NPC
+IsHeraldo: "true"
 AssociatedGroup: Name of Guild or Group they belong to
 Gender: Male or Female or... 
 Race: Human, Dwarf, Elf, etc
@@ -34,7 +35,7 @@ Location: What is the name of the place they live?
 ## Perfil
 
 **Marcus Valerius Maximus Augustus 10º** *“El eterno”* → Heraldo Divino
-Actual emperador del [[Civilizaciones#Imperio Romano|Imperio Romano]]
+Actual emperador del [[Imperio Romano]]
 
 ---
 

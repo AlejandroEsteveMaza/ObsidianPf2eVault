@@ -1,0 +1,5 @@
+---
+icon: raza
+aliases:
+  - Gnomo
+---

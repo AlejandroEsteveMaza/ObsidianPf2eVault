@@ -4,29 +4,29 @@
     "type": "split",
     "children": [
       {
-        "id": "2b7ba2608df27349",
+        "id": "ef34a3f4335deba7",
         "type": "tabs",
         "children": [
           {
-            "id": "e6d99c1f7290d891",
+            "id": "03719cb665431a4d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6. Lore/Historia - Mundo.md",
-                "mode": "preview",
+                "file": "6. Lore Enciclopedia/Civilizaciones/Imperio Romano.md",
+                "mode": "source",
                 "source": true
               }
             }
           },
           {
-            "id": "b825bbb0d42798ec",
+            "id": "93c1760767b6adf2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6. Lore/Teologia.md",
-                "mode": "preview",
+                "file": "2. The World/Localizaciones/Asentamientos/Roma.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Aliatham",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6. Lore/Teologia.md",
+                "file": "2. The World/Localizaciones/Asentamientos/Roma.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "6. Lore/Teologia.md",
+                "file": "2. The World/Localizaciones/Asentamientos/Roma.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -192,34 +192,36 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b825bbb0d42798ec",
+  "active": "a19bbbb6ac4dc7c1",
   "lastOpenFiles": [
-    "6. Lore/Historia - Mundo.md",
-    "6. Lore/Sin clasificar.md",
-    "6. Lore/Teologia.md",
-    "2. The World/NPCs/Heraldos/Vesperio.md",
-    "6. Lore/Historia - Aventura.md",
-    "z_Templates/Call Out Boxes/Call Out - Question.md",
-    "z_Templates/Call Out Boxes/Call Out - Failure.md",
-    "z_Templates/Call Out Boxes/Call Out Boxes.md",
-    "6. Lore/Civilizaciones.md",
-    "4. Session Journals/Nombre Aventura/Nombre Aventura.md",
+    "z_Templates/New Asentamiento Template.md",
+    "2. The World/Localizaciones/Asentamientos/Roma.md",
+    "6. Lore Enciclopedia/Civilizaciones/Imperio Romano.md",
+    "6. Lore Enciclopedia/Origen del Mundo.md",
+    "2. The World/NPCs/Scratch NPCs Ideas/Eve.md",
+    "6. Lore Enciclopedia/Biologia.md",
+    "5. Mechanics/Razas/Orco.md",
+    "5. Mechanics/Razas/Mediano.md",
+    "5. Mechanics/Razas/Humano.md",
+    "5. Mechanics/Razas/Enano.md",
+    "5. Mechanics/Razas/Gnomo.md",
+    "5. Mechanics/Razas/Elfo.md",
+    "6. Lore Enciclopedia/Civilizaciones/Sin clasificar.md",
+    "5. Mechanics/Razas",
+    "5. Mechanics/Untitled.md",
+    "6. Lore Enciclopedia/Civilizaciones.md",
+    "6. Lore Enciclopedia/Civilizaciones/Civilización China.md",
+    "6. Lore Enciclopedia/Civilizaciones/Civilización Griega.md",
+    "6. Lore Enciclopedia/Civilizaciones/Civilización Egipcia.md",
+    "6. Lore Enciclopedia/Civilizaciones/Civilización Mesopotámica.md",
     "2. The World/NPCs/Heraldos/Maximus Augustus.md",
-    "2. The World/Localizaciones/Asentamientos/Brundis.md",
-    "2. The World/Localizaciones/Asentamientos/Neapolis.md",
-    "2. The World/Mapas/Mapa del Mundo.md",
-    "2. The World/NPCs/NPCs Ideas/Bartolomeo el Bárbaro Bailarín.md",
+    "6. Lore Enciclopedia/Energia, Huespedes, Heraldos.md",
+    "6. Lore Enciclopedia/Civilizaciones",
     "2. The World/NPCs/Heraldos/Aegis el Grande.md",
-    "2. The World/Localizaciones/Asentamientos/Alejandria.md",
     "z_Templates/New NPC Template.md",
-    "z_Templates/New Sesion Template.md",
-    "z_Templates/Infobox Templates/Untitled.md",
-    "4. Session Journals/Nombre Aventura/Acto 1/sesion 2.md",
-    "4. Session Journals/Nombre Aventura/Acto 1/Sesion 1.md",
-    "Create New Session Journal.md",
-    "4. Session Journals/Nombre Aventura/Acto 1/Acto 1.md",
-    "3. The Party/Nombre Aventura/Nombre Aventura.md",
-    "3. The Party/Nombre Aventura/Jugador 1.md",
+    "2. The World/NPCs/Heraldos/Vesperio.md",
+    "2. The World/NPCs/Heraldos/Txun Shu Zu.md",
+    "2. The World/NPCs/NPCs.md",
     "3. The Party/Nombre Aventura",
     "4. Session Journals/Nombre Aventura/Acto 1",
     "4. Session Journals/Nombre Aventura/Tablero de viaje.canvas",
@@ -238,9 +240,7 @@
     "2. The World/NPCs/Heraldos",
     "z_Assets/NPCs/bon voyage.bmp",
     "z_Assets/NPCs",
-    "2. The World/NPCs/NPCs Ideas",
-    "6. Lore",
-    "2. The World/Localizaciones/Asentamientos",
+    "2. The World/NPCs/Scratch NPCs Ideas",
     "Untitled.canvas"
   ]
 }

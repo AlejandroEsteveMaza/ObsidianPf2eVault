@@ -36,7 +36,14 @@ Location: What is the name of the place they live?
 ## Perfil
 
 
-Se ha especulado comúnmente que el verdadero nombre del Dragón es **Grigori**. Esto se basa en que el [[Eliseo]] se refiere a ella como "¡Muerte alada misericordiosa! ¡Grigori todopoderoso y despiadado! "_; además, el Dragón también dice algo que suena como "Nomen meum grigori"_
+Se ha especulado comúnmente que el verdadero nombre del Dragón es **Grigori**. Esto se basa en que el [[Eliseo]] se refiere a ella como "¡Muerte alada misericordiosa! ¡Grigori todopoderoso y despiadado! "_; además, el Dragón también dice algo que suena como "Nomen meum grigori".
+
+---
+Representacion artistica de un  [[Heraldos|heraldo]] que ha interpretado las visiones.
+![[Grigori.jpg|center hmed]]  
+> [!tip]+ Secreto  
+> El corazón representa la energia primigenia
+
 
 ---
 > [!info] Statblock

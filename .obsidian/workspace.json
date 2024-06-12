@@ -35,8 +35,7 @@
               "pinned": true
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -65,7 +64,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Tarentum",
+                "query": "heraldo",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -102,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TODO.md",
+                "file": "6. Lore Enciclopedia/Historia - Aventura.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TODO.md",
+                "file": "6. Lore Enciclopedia/Historia - Aventura.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -179,7 +178,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 536.5
+    "width": 444.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -196,11 +195,21 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "98e573c95f4170dd",
+  "active": "a19bbbb6ac4dc7c1",
   "lastOpenFiles": [
-    "Esqueleto.md",
     "TODO.md",
+    "2. The World/NPCs/El Dragon.md",
     "6. Lore Enciclopedia/Historia - Aventura.md",
+    "z_Templates/Call Out Boxes/Call Out Boxes.md",
+    "6. Lore Enciclopedia/Origen/Energia, Huespedes, Heraldos.md",
+    "6. Lore Enciclopedia/Origen/Heraldos.md",
+    "6. Lore Enciclopedia/Origen/Huespedes.md",
+    "6. Lore Enciclopedia/Origen/Historia del Mundo/Aliatham.md",
+    "z_Templates/Infobox Templates/(Infobox) Asentamiento Template.md",
+    "6. Lore Enciclopedia/Origen/Historia del Mundo/Retorno Inestabilidad.md",
+    "6. Lore Enciclopedia/Origen/Historia del Mundo/Ascension nuevos Huespedes.md",
+    "6. Lore Enciclopedia/Origen/Historia del Mundo/Epoca Oscura.md",
+    "Esqueleto.md",
     "6. Lore Enciclopedia/Ciencias Naturales/Biologia.md",
     "4. Session Journals/Nombre Aventura/Acto 1/Sesion 1.md",
     "3. The Party/Nombre Aventura/Jugador 1.md",
@@ -208,23 +217,13 @@
     "2. The World/Localizaciones/lasodasd.md",
     "2. The World/Localizaciones/test.md",
     "2. The World/NPCs/Heraldos/asdasdasd.md",
-    "2. The World/NPCs/El Dragon.md",
     "2. The World/NPCs/Heraldos/Aegis el Grande.md",
-    "6. Lore Enciclopedia/Origen/Historia del Mundo/Epoca Oscura.md",
-    "6. Lore Enciclopedia/Origen/Historia del Mundo/Retorno Inestabilidad.md",
-    "6. Lore Enciclopedia/Origen/Historia del Mundo/Ascension nuevos Huespedes.md",
-    "6. Lore Enciclopedia/Origen/Historia del Mundo/Aliatham.md",
     "6. Lore Enciclopedia/Origen/Historia del Mundo/Historia del Mundo.md",
-    "6. Lore Enciclopedia/Origen/Energia, Huespedes, Heraldos.md",
     "4. 📜 Session Journals/Untitled.md",
     "6. Lore Enciclopedia/Origen/Eventos e Historia del Mundo.md",
     "z_Templates/New Generic Template.md",
     "6. Lore Enciclopedia/Origen/Historia del Mundo/Untitled.md",
-    "6. Lore Enciclopedia/Civilizaciones/Civilizaciones Sin clasificar.md",
-    "z_Templates/New Sesion Template.md",
-    "2. The World/Localizaciones/Asentamientos/Alejandria.md",
     "6. Lore Enciclopedia/Origen/Historia del Mundo",
-    "4. Session Journals/Nombre Aventura/Nombre Aventura.md",
     "z_Assets/Elysion.jpg",
     "z_Assets/Grigori.jpg",
     "6. Lore Enciclopedia/Origen",

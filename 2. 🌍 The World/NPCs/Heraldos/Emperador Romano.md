@@ -1,8 +1,8 @@
 ---
 icon: npc
 NoteType: NPC
-alias: template_alias
-IsHeraldo: "true", "false"
+IsHeraldo: "true"
+alias: Maximus Augustus
 AssociatedGroup: Name of Guild or Group they belong to
 Gender: Male or Female or... 
 Race: Human, Dwarf, Elf, etc
@@ -15,7 +15,7 @@ Location: What is the name of the place they live?
 
 > [!infobox]
 > # `=this.file.name`
-> ![[ImagePlaceholder.jpg|cover hsmall]]
+> ![[Maximus_Augustus.jpg|cover hsmall]]
 > ###### Basic Information
 > Type |  Stat |
 > ---|---|
@@ -35,9 +35,12 @@ Location: What is the name of the place they live?
 # `=this.file.name`
 ## Perfil
 
-**AddDescriptionHere**
+**Marcus Valerius Maximus Augustus 10º** *“El eterno”*
+Actual emperador del [[Imperio Romano]]
+Heraldo Divino
 
 ---
+
 > [!info] Statblock
 > ```statblock
 > name: Individual

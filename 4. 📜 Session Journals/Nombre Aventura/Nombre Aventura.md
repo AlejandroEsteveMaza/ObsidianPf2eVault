@@ -3,7 +3,7 @@
 
 | ![[mapa_v1.jpg\|hsmall+wsmall+center]] | ![[ImagePlaceholder.jpg\|hsmall+wsmall+center]] | ![[ImagePlaceholder.jpg\|hsmall+wsmall+center]] | ![[ImagePlaceholder.jpg\|hsmall+wsmall+center]]            |
 | -------------------------------------- | ----------------------------------------------- | ----------------------------------------------- | ---------------------------------------------------------- |
-| [[Mapa del Mundo]]                     | [[Tablero de viaje.canvas\|Tablero de viaje]]   | [[Acto 1]]                                      | [[3. The Party/Nombre Aventura/Nombre Aventura\|El grupo]] |
+| [[Mapa del Mundo]]                     | [[Tablero de viaje.canvas\|Tablero de viaje]]   | [[Acto 1]]                                      | [[3. 🤼 The Party/Nombre Aventura/Nombre Aventura|El grupo]] |
 
 
 # Notas modificadas recientemente

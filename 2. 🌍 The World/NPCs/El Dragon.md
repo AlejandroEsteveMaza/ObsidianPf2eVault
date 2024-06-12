@@ -1,7 +1,8 @@
 ---
 icon: npc
 NoteType: NPC
-IsHeraldo: "true"
+alias: Grigori
+IsHeraldo: "true", "false"
 AssociatedGroup: Name of Guild or Group they belong to
 Gender: Male or Female or... 
 Race: Human, Dwarf, Elf, etc
@@ -14,7 +15,7 @@ Location: What is the name of the place they live?
 
 > [!infobox]
 > # `=this.file.name`
-> ![[Maximus_Augustus.jpg|cover hsmall]]
+> ![[Grigori.jpg|cover hsmall]]
 > ###### Basic Information
 > Type |  Stat |
 > ---|---|
@@ -34,11 +35,10 @@ Location: What is the name of the place they live?
 # `=this.file.name`
 ## Perfil
 
-**Marcus Valerius Maximus Augustus 10º** *“El eterno”* → Heraldo Divino
-Actual emperador del [[Imperio Romano]]
+
+Se ha especulado comúnmente que el verdadero nombre del Dragón es **Grigori**. Esto se basa en que el [[Eliseo]] se refiere a ella como "¡Muerte alada misericordiosa! ¡Grigori todopoderoso y despiadado! "_; además, el Dragón también dice algo que suena como "Nomen meum grigori"_
 
 ---
-
 > [!info] Statblock
 > ```statblock
 > name: Individual

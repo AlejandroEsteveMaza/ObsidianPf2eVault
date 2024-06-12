@@ -15,23 +15,23 @@
   "enable_folder_templates": true,
   "folder_templates": [
     {
-      "folder": "2. The World/NPCs",
+      "folder": "2. 🌍 The World/NPCs",
       "template": "z_Templates/New NPC Template.md"
     },
     {
-      "folder": "2. The World/Localizaciones/Asentamientos",
+      "folder": "2. 🌍 The World/Localizaciones/Asentamientoses",
       "template": "z_Templates/New Asentamiento Template.md"
     },
     {
-      "folder": "2. The World/Localizaciones/Establecimientos",
+      "folder": "2. 🌍 The World/Localizaciones/Establecimientos",
       "template": "z_Templates/New Establecimiento Template.md"
     },
     {
-      "folder": "3. The Party",
+      "folder": "3. 🤼 The Party",
       "template": "z_Templates/New Jugador Template.md"
     },
     {
-      "folder": "4. Session Journals",
+      "folder": "4. 📜 Session Journals",
       "template": "z_Templates/New Sesion Template.md"
     }
   ],

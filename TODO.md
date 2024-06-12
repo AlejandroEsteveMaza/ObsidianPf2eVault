@@ -1,0 +1,4 @@
+- [ ] Las energias obtiene algo por tener un huesped?
+- [ ] las enrgias buscan el equilibrio o no tienen propósito?
+- [ ] la energia tiene consciencia o proposito?
+- [ ] la energia llamó al primer huesped o no?

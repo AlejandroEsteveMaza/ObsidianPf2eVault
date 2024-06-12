@@ -12,3 +12,4 @@ pasperc: [Passive Perception]
 Role: Player
 Status: Active
 ---
+template

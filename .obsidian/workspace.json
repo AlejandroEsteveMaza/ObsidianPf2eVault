@@ -22,15 +22,17 @@
             }
           },
           {
-            "id": "ef6e7dab300ce921",
+            "id": "98e573c95f4170dd",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6. Lore Enciclopedia/Historia - Aventura.md",
-                "mode": "source",
+                "file": "TODO.md",
+                "mode": "preview",
                 "source": true
-              }
+              },
+              "pinned": true
             }
           }
         ],
@@ -100,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6. Lore Enciclopedia/Historia - Aventura.md",
+                "file": "TODO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "6. Lore Enciclopedia/Historia - Aventura.md",
+                "file": "TODO.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -194,13 +196,19 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ef6e7dab300ce921",
+  "active": "98e573c95f4170dd",
   "lastOpenFiles": [
+    "Esqueleto.md",
+    "TODO.md",
+    "6. Lore Enciclopedia/Historia - Aventura.md",
+    "6. Lore Enciclopedia/Ciencias Naturales/Biologia.md",
+    "4. Session Journals/Nombre Aventura/Acto 1/Sesion 1.md",
+    "3. The Party/Nombre Aventura/Jugador 1.md",
+    "2. The World/Localizaciones/Establecimientos/Taberna Aurelia.md",
     "2. The World/Localizaciones/lasodasd.md",
     "2. The World/Localizaciones/test.md",
     "2. The World/NPCs/Heraldos/asdasdasd.md",
     "2. The World/NPCs/El Dragon.md",
-    "6. Lore Enciclopedia/Historia - Aventura.md",
     "2. The World/NPCs/Heraldos/Aegis el Grande.md",
     "6. Lore Enciclopedia/Origen/Historia del Mundo/Epoca Oscura.md",
     "6. Lore Enciclopedia/Origen/Historia del Mundo/Retorno Inestabilidad.md",
@@ -217,14 +225,8 @@
     "2. The World/Localizaciones/Asentamientos/Alejandria.md",
     "6. Lore Enciclopedia/Origen/Historia del Mundo",
     "4. Session Journals/Nombre Aventura/Nombre Aventura.md",
-    "2. The World/NPCs/Heraldos/Eliseo.md",
-    "5. Mechanics/PF2E Remaster Community Content/Bestiary/bestiary-1/wight.md",
-    "Esqueleto.md",
-    "5. Mechanics/PF2E Remaster Community Content/Bestiary/bestiary-1/wight-commander.md",
     "z_Assets/Elysion.jpg",
-    "5. Mechanics/PF2E Remaster Community Content/PF2e Journals/Ancestries/Skeleton.md",
     "z_Assets/Grigori.jpg",
-    "z_Templates/New NPC Template.md",
     "6. Lore Enciclopedia/Origen",
     "6. Lore Enciclopedia/Ciencias Naturales",
     "5. Mechanics/Razas",

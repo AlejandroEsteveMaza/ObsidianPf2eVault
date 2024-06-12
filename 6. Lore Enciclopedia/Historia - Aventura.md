@@ -17,7 +17,7 @@ Los aventureros empiezan en [[Brundis]] en el centro del valle. Alli descubren u
 
 
 
-[](Civitas%20industrialis.md)s.md)�
+# El mes del Emperador 👑
 
 Un torneo de magia se celebra en [[Roma]], atrayendo a los mejores hechiceros de todo el reino. Pero pronto se descubre que el torneo es solo una tapadera para un oscuro ritual que amenaza con desatar el caos.La sociedad secreta de hechiceros del dios Urgathoa busca desatar un antiguo poder oscuro que yace bajo las ruinas de la ciudad, poniendo en peligro la estabilidad del mundo.
 

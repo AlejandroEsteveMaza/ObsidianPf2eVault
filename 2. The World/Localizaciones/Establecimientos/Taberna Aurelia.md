@@ -36,8 +36,6 @@ commonraces:
 > Guilds & Groups |  `=this.guildsgroups`
 > Raza comunes |  `=this.commonraces`
 
-
-
 # `=this.file.name`
 ## Overview
 

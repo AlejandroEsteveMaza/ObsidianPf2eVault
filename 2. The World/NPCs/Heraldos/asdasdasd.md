@@ -1,7 +1,7 @@
 ---
 icon: npc
 NoteType: NPC
-alias: Grigori
+alias: template_alias
 IsHeraldo: "true", "false"
 AssociatedGroup: Name of Guild or Group they belong to
 Gender: Male or Female or... 
@@ -15,7 +15,7 @@ Location: What is the name of the place they live?
 
 > [!infobox]
 > # `=this.file.name`
-> ![[Grigori.jpg|cover hsmall]]
+> ![[ImagePlaceholder.jpg|cover hsmall]]
 > ###### Basic Information
 > Type |  Stat |
 > ---|---|
@@ -35,8 +35,7 @@ Location: What is the name of the place they live?
 # `=this.file.name`
 ## Perfil
 
-
-Se ha especulado comúnmente que el verdadero nombre del Dragón es **Grigori**. Esto se basa en que el [[Eliseo]] se refiere a ella como "¡Muerte alada misericordiosa! ¡Grigori todopoderoso y despiadado! "_; además, el Dragón también dice algo que suena como "Nomen meum grigori"_
+**AddDescriptionHere**
 
 ---
 > [!info] Statblock

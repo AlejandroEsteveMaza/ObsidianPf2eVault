@@ -14,14 +14,27 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6. 🏛️ Lore Enciclopedia/Historia - Aventura.md",
+                "file": "6. Lore Enciclopedia/Historia - Aventura.md",
                 "mode": "preview",
                 "source": true
               },
               "pinned": true
             }
+          },
+          {
+            "id": "ef6e7dab300ce921",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6. Lore Enciclopedia/Historia - Aventura.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -87,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6. 🏛️ Lore Enciclopedia/Historia - Aventura.md",
+                "file": "6. Lore Enciclopedia/Historia - Aventura.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "6. 🏛️ Lore Enciclopedia/Historia - Aventura.md",
+                "file": "6. Lore Enciclopedia/Historia - Aventura.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -181,29 +194,30 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c6f6637018387f3a",
+  "active": "ef6e7dab300ce921",
   "lastOpenFiles": [
-    "2. 🌍 The World/NPCs/El Dragon.md",
-    "2. 🌍 The World/NPCs/El Dragon.md",
-    "2. 🌍 The World/NPCs/Heraldos/Aegis el Grande.md",
-    "6. 🏛️ Lore Enciclopedia/Historia - Aventura.md",
-    "6. 🏛️ Lore Enciclopedia/Origen/Historia del Mundo/Epoca Oscura.md",
-    "6. 🏛️ Lore Enciclopedia/Origen/Historia del Mundo/Retorno Inestabilidad.md",
-    "6. 🏛️ Lore Enciclopedia/Origen/Historia del Mundo/Ascension nuevos Huespedes.md",
-    "6. 🏛️ Lore Enciclopedia/Origen/Historia del Mundo/Aliatham.md",
-    "6. 🏛️ Lore Enciclopedia/Origen/Historia del Mundo/Historia del Mundo.md",
-    "6. 🏛️ Lore Enciclopedia/Origen/Energia, Huespedes, Heraldos.md",
+    "2. The World/Localizaciones/lasodasd.md",
+    "2. The World/Localizaciones/test.md",
+    "2. The World/NPCs/Heraldos/asdasdasd.md",
+    "2. The World/NPCs/El Dragon.md",
+    "6. Lore Enciclopedia/Historia - Aventura.md",
+    "2. The World/NPCs/Heraldos/Aegis el Grande.md",
+    "6. Lore Enciclopedia/Origen/Historia del Mundo/Epoca Oscura.md",
+    "6. Lore Enciclopedia/Origen/Historia del Mundo/Retorno Inestabilidad.md",
+    "6. Lore Enciclopedia/Origen/Historia del Mundo/Ascension nuevos Huespedes.md",
+    "6. Lore Enciclopedia/Origen/Historia del Mundo/Aliatham.md",
+    "6. Lore Enciclopedia/Origen/Historia del Mundo/Historia del Mundo.md",
+    "6. Lore Enciclopedia/Origen/Energia, Huespedes, Heraldos.md",
     "4. 📜 Session Journals/Untitled.md",
-    "2. 🌍 The World/Localizaciones/Untitled.md",
     "6. Lore Enciclopedia/Origen/Eventos e Historia del Mundo.md",
     "z_Templates/New Generic Template.md",
     "6. Lore Enciclopedia/Origen/Historia del Mundo/Untitled.md",
-    "6. 🏛️ Lore Enciclopedia/Civilizaciones/Civilizaciones Sin clasificar.md",
+    "6. Lore Enciclopedia/Civilizaciones/Civilizaciones Sin clasificar.md",
     "z_Templates/New Sesion Template.md",
-    "2. 🌍 The World/Localizaciones/Asentamientos/Alejandria.md",
-    "6. 🏛️ Lore Enciclopedia/Origen/Historia del Mundo",
-    "4. 📜 Session Journals/Nombre Aventura/Nombre Aventura.md",
-    "2. 🌍 The World/NPCs/Heraldos/Eliseo.md",
+    "2. The World/Localizaciones/Asentamientos/Alejandria.md",
+    "6. Lore Enciclopedia/Origen/Historia del Mundo",
+    "4. Session Journals/Nombre Aventura/Nombre Aventura.md",
+    "2. The World/NPCs/Heraldos/Eliseo.md",
     "5. Mechanics/PF2E Remaster Community Content/Bestiary/bestiary-1/wight.md",
     "Esqueleto.md",
     "5. Mechanics/PF2E Remaster Community Content/Bestiary/bestiary-1/wight-commander.md",
@@ -211,19 +225,18 @@
     "5. Mechanics/PF2E Remaster Community Content/PF2e Journals/Ancestries/Skeleton.md",
     "z_Assets/Grigori.jpg",
     "z_Templates/New NPC Template.md",
-    "6. 🏛️ Lore Enciclopedia/Civilizaciones/Imperio Romano.md",
-    "6. 🏛️ Lore Enciclopedia/Origen",
-    "6. 🏛️ Lore Enciclopedia/Ciencias Naturales",
+    "6. Lore Enciclopedia/Origen",
+    "6. Lore Enciclopedia/Ciencias Naturales",
     "5. Mechanics/Razas",
-    "6. 🏛️ Lore Enciclopedia/Civilizaciones",
-    "3. 🤼 The Party/Nombre Aventura",
-    "4. 📜 Session Journals/Nombre Aventura/Acto 1",
-    "4. 📜 Session Journals/Nombre Aventura/Tablero de viaje.canvas",
-    "4. 📜 Session Journals/Nombre Aventura",
+    "6. Lore Enciclopedia/Civilizaciones",
+    "3. The Party/Nombre Aventura",
+    "4. Session Journals/Nombre Aventura/Acto 1",
+    "4. Session Journals/Nombre Aventura/Tablero de viaje.canvas",
+    "4. Session Journals/Nombre Aventura",
     "z_Assets/Darinor.jpg",
     "z_Assets/Liu-Chen.jpg",
     "6. Lore/Frases",
-    "2. 🌍 The World/Localizaciones/Establecimientos/Establecimientos Genericos",
+    "2. The World/Localizaciones/Establecimientos/Establecimientos Genericos",
     "z_Assets/Civitas industrialis.jpg",
     "z_Assets/Taberna Aurelia.jpg",
     "z_Assets/Pasted image 20240611124723.png",

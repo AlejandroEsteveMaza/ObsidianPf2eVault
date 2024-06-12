@@ -15,7 +15,7 @@ Uno de estos Humanos fue el [[Huesped Primigenio]] .
 A raiz de convertirse en [[Huesped Primigenio]] los fenomenos reducieron su intensidad y frequencia
 > [!info]+ Info  
 > [[Huesped Primigenio]] era mas poderoso que los [[Huespedes]] actuales ya que tenia las 4 energias.
-[](Huesped%20Primigenio.md)] predijo que la energia r[](Huespedes.md)ido a su gran poder y la inestabilidad.
+[](Huesped%20Primigenio.md)o.md)] predijo que la ener[](Huespedes.md)edes.md)ido a su gran poder y la inestabilidad.
 
 La energia llegó a un punto de inestabilidad incontrolable. 
 

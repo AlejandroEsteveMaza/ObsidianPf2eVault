@@ -1,3 +1,7 @@
+---
+alias: Energia, Energia Primigenia
+---
+
 ## Energias
 
 La energía busca el equilibrio, si igual que la naturaleza mientras nadie intervenga.

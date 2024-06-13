@@ -18,8 +18,5 @@ A raiz de convertirse en [[Huesped Primigenio]] los fenomenos reducieron su inte
 
 [[Huesped Primigenio]] predijo que la [[Energias|Energia]] reventaria debido a su gran poder y la inestabilidad.
 
-La energia llegó a un punto de inestabilidad incontrolable. 
+La [[Energias|Energia]] llegó a un punto de inestabilidad incontrolable. 
 
-[[Huesped Primigenio]] se preparó y con su poder creó el [[Biologia#Gen recesivo|Gen recesivo]] y creo **las visiones**
-[[Huesped Primigenio]] entendio que la energia debian de poseer un huesped para mantener el equilibrio y mantenerse fuera de la epoca de oscuridad.
-Los [[Huespedes]] mantienen el equilibrio y contienen la inestabilidad

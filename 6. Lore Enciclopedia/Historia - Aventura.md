@@ -4,7 +4,7 @@
 
 > [!info]+ Info  
 > En [[Roma]] va a empezar el mes del Emperador ([[Maximus Augustus]]).
-> - S[](Roma.md)md)arán todo tipo de juegos, espectácul[](Emperador%20Romano.md)
+> - Se organizan todo tipo de juegos, espectáculos y competiciones
 > - Se anima a participar a la gente porque a los ganadores se le concederá aquella que mas deseen
 
 Los aventureros empiezan en [[Brundis]] en el centro del valle. Alli descubren una persona ahorcada de un Alcornoque

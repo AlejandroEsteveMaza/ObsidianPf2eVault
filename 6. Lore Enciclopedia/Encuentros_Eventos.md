@@ -33,3 +33,40 @@ Quedar atrapado con alguien en una cueva dirante una tormenta
 Encuentro con [[Darinor]] y [[Liu-Chen]] transportando a Danso
 
 ----
+
+Problems via magna carreta prisioneros. Mas adelante se encuentran con prisioneros que pide liberar de esposas a cambio de revelar
+
+----
+
+
+----
+
+
+----
+
+
+----
+
+
+----
+
+
+----
+
+
+----
+
+
+----
+
+
+----
+
+
+----
+
+
+----
+
+
+----

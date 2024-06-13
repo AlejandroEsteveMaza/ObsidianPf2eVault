@@ -34,8 +34,33 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "d6ce9e3e8e16309a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6. Lore Enciclopedia/Origen/Historia del Mundo/Retorno Inestabilidad.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "c9777ff3a2a0ff47",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6. Lore Enciclopedia/Origen/Historia del Mundo/Epoca Oscura.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -101,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6. Lore Enciclopedia/Historia - Aventura.md",
+                "file": "6. Lore Enciclopedia/Origen/Historia del Mundo/Epoca Oscura.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "6. Lore Enciclopedia/Historia - Aventura.md",
+                "file": "6. Lore Enciclopedia/Origen/Historia del Mundo/Epoca Oscura.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -195,20 +220,25 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a19bbbb6ac4dc7c1",
+  "active": "c9777ff3a2a0ff47",
   "lastOpenFiles": [
-    "TODO.md",
-    "2. The World/NPCs/El Dragon.md",
-    "6. Lore Enciclopedia/Historia - Aventura.md",
-    "z_Templates/Call Out Boxes/Call Out Boxes.md",
-    "6. Lore Enciclopedia/Origen/Energia, Huespedes, Heraldos.md",
-    "6. Lore Enciclopedia/Origen/Heraldos.md",
-    "6. Lore Enciclopedia/Origen/Huespedes.md",
-    "6. Lore Enciclopedia/Origen/Historia del Mundo/Aliatham.md",
-    "z_Templates/Infobox Templates/(Infobox) Asentamiento Template.md",
+    "6. Lore Enciclopedia/Origen/Historia del Mundo/Historia del Mundo.md",
     "6. Lore Enciclopedia/Origen/Historia del Mundo/Retorno Inestabilidad.md",
-    "6. Lore Enciclopedia/Origen/Historia del Mundo/Ascension nuevos Huespedes.md",
     "6. Lore Enciclopedia/Origen/Historia del Mundo/Epoca Oscura.md",
+    "6. Lore Enciclopedia/Origen/Huesped Primigenio.md",
+    "6. Lore Enciclopedia/Origen/Huespedes.md",
+    "6. Lore Enciclopedia/Origen/Heraldos.md",
+    "6. Lore Enciclopedia/Origen/Energias.md",
+    "6. Lore Enciclopedia/Historia - Aventura.md",
+    "TODO.md",
+    "6. Lore Enciclopedia/Sin clasificar.md",
+    "6. Lore Enciclopedia/Ciencias Naturales/Geografia.md",
+    "6. Lore Enciclopedia/Encuentros_Eventos.md",
+    "6. Lore Enciclopedia/Origen/Historia del Mundo/Aliatham.md",
+    "2. The World/NPCs/El Dragon.md",
+    "z_Templates/Call Out Boxes/Call Out Boxes.md",
+    "z_Templates/Infobox Templates/(Infobox) Asentamiento Template.md",
+    "6. Lore Enciclopedia/Origen/Historia del Mundo/Ascension nuevos Huespedes.md",
     "Esqueleto.md",
     "6. Lore Enciclopedia/Ciencias Naturales/Biologia.md",
     "4. Session Journals/Nombre Aventura/Acto 1/Sesion 1.md",
@@ -218,11 +248,6 @@
     "2. The World/Localizaciones/test.md",
     "2. The World/NPCs/Heraldos/asdasdasd.md",
     "2. The World/NPCs/Heraldos/Aegis el Grande.md",
-    "6. Lore Enciclopedia/Origen/Historia del Mundo/Historia del Mundo.md",
-    "4. 📜 Session Journals/Untitled.md",
-    "6. Lore Enciclopedia/Origen/Eventos e Historia del Mundo.md",
-    "z_Templates/New Generic Template.md",
-    "6. Lore Enciclopedia/Origen/Historia del Mundo/Untitled.md",
     "6. Lore Enciclopedia/Origen/Historia del Mundo",
     "z_Assets/Elysion.jpg",
     "z_Assets/Grigori.jpg",

@@ -2,3 +2,5 @@
 - [ ] las enrgias buscan el equilibrio o no tienen propósito?
 - [ ] la energia tiene consciencia o proposito?
 - [ ] la energia llamó al primer huesped o no?
+- [x] el huesped primigenio hizo que la energia se dividiera en cuatro para que sea mas inestable? tiene sentido porque si no en las visiones no diria que tiene que haber 4 huespedes
+- [ ] añadir una lista de las visiones

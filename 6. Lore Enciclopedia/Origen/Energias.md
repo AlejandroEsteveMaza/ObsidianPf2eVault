@@ -4,7 +4,7 @@ alias: Energia, Energia Primigenia
 
 ## Energias
 
-La energía busca el equilibrio, si igual que la naturaleza mientras nadie intervenga.
+La energía busca el equilibrio, igual que la naturaleza mientras nadie intervenga.
 
 - Primal
 	- Es lo opuesto a lo oculto. Casi todo es un efecto físico de alguna manera. Muchos hechizos elementales y buenas opciones de curación. Carece de hechizos sutiles y tiene problemas para apuntar a las salvaciones de voluntad. Además, casi no hay formas de lidiar con los lanzadores de hechizos enemigos que no sean disipar magia (o hacerlos explotar).

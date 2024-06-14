@@ -16,7 +16,7 @@ El [[Huesped Primigenio]] utilizó esta abrumadora liberación de energía para 
 - Crear **las visiones**
 - Dividir la energía en 4, para que fuera mas fácil de mantener estable.
 
-[[Huesped Primigenio]] entendio que la energia debian de poseer un huesped para mantener el equilibrio y mantenerse fuera de la epoca de oscuridad e intentó comunicar esto en las visiones.
+[[Huesped Primigenio]] entendio que las [[Energias]] debian de poseer [[Huespedes]] para mantener el equilibrio y mantenerse fuera de la epoca de oscuridad e intentó comunicar esto en las visiones.
 Los [[Huespedes]] mantienen el equilibrio y contienen la inestabilidad
 
 
@@ -24,3 +24,4 @@ Los [[Huespedes]] mantienen el equilibrio y contienen la inestabilidad
  
 ### Las Visiones 
 Tienen el objetivo de que no se produjera de nuevo y repartir el conocimiento.
+ #### lista de visiones 

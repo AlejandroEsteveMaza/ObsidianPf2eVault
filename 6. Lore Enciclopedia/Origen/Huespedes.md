@@ -2,10 +2,8 @@
 icon: npc
 NoteType: NPC
 IsHeraldo: "true"
+alias: Huesped
 ---
-
-# [[Energias#Huespedes]]
-
 
 **Obligaciones**: 
 1. Cumplir el deber de cada energia 

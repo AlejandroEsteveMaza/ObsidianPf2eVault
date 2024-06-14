@@ -29,7 +29,12 @@ Nombre planeta: tierra
 	- Hay caminos secundarios por la naturaleza
 - 
 
+### Detalles adicionales
 
+Las personas de descendencia romana tiene una espiral en la barbilla como una especie de marca de nacimiento
+
+### Uso de la Magia
+Academia de magos llamada **Academia Arcanum**, que se encarga de entrenar y supervisar a los practicantes de magia. Los miembros de esta academia tienen permiso para usar la magia en áreas controladas, como sanación en hospitales, protección en fortificaciones y exploración en expediciones científicas. La mayoría de los ciudadanos, sin embargo, dependen de la industria y la tecnología para sus necesidades diarias. Las fábricas producen bienes utilizando métodos tradicionales, y la magia se ve como una herramienta complementaria más que una sustituta.
 
 ### Asentamientos del `=this.file.name`
 ```dataview

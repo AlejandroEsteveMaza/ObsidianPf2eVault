@@ -85,7 +85,7 @@ Placeholder
 
 Placeholder
 
-## Profile
+## Caracteristicas
 
 Placeholder
 

@@ -2,13 +2,13 @@
 icon: npc
 NoteType: NPC
 AssociatedGroup: Name of Guild or Group they belong to
-Gender: Male or Female or... 
+Gender: Male or Female or...
 Race: Human, Dwarf, Elf, etc
 Age: How old are they?
-Class: Warrior or Wizard or ... 
-Alignment: Are they Chaotic Neutral or Lawful Neutral
-Character-Role: Are they a friend or foe?
-Location: What is the name of the place they live?
+Class: Warrior or Wizard or ...
+Alignment: Lawful Good
+Character-Role: Friend
+Location: W?
 ---
 > [!infobox]
 > # `=this.file.name`
@@ -32,7 +32,9 @@ Location: What is the name of the place they live?
 # `=this.file.name`
 ## Perfil
 
-**AddDescriptionHere**
+Viaja acompañado de dos caballos 🐴:
+- Brisa 
+- Lucas
 
 ---
 > [!info] Statblock

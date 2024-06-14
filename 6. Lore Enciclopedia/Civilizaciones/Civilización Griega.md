@@ -7,3 +7,7 @@ Griego antiguo: La sociedad griega antigua estaba formada por polis (ciudades-es
 Nombre planeta: Gaia
 
 En la mitología griega, "Gaia" es la personificación de la Tierra, la madre primordial de todos los dioses, titanes y gigantes. Es un nombre apropiado para un planeta, evocando la idea de la Tierra como una entidad viva y divina.
+
+
+### Actualmente: 
+- Estan sufriendo el asedio del [[Imperio Romano]]

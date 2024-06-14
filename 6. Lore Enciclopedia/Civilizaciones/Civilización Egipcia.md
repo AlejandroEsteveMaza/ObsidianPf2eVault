@@ -8,9 +8,11 @@ Nombre planeta: Ta-Kemet
 
 "Tierra Negra" en el antiguo egipcio, refiriéndose al fértil suelo negro del valle del Nilo, en contraste con el "Deshret" (el desierto rojo). Este término podría ser extrapolado para referirse al planeta entero, evocando la idea de fertilidad y vida.
 
-- Actualmente: 
+### Actualmente: 
 - No defienden Kush (Meroiticos)
 - Están sufriendo una plaga
+> [!danger]+ Danger  
+> Solo afecta a los [[Heraldos]]
 - Piramides en construccion
 
 ## Meroítico

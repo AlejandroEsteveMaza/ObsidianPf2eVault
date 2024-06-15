@@ -34,33 +34,9 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "4d34cb1b57089ee3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6. Lore Enciclopedia/Origen/Historia del Mundo/Retorno Inestabilidad.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "4125a1120ce9801f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6. Lore Enciclopedia/Origen/Historia del Mundo/Aliatham.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -126,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6. Lore Enciclopedia/Origen/Historia del Mundo/Retorno Inestabilidad.md",
+                "file": "TODO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "6. Lore Enciclopedia/Origen/Historia del Mundo/Retorno Inestabilidad.md",
+                "file": "TODO.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -220,8 +196,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a19bbbb6ac4dc7c1",
+  "active": "98e573c95f4170dd",
   "lastOpenFiles": [
+    "0. DM Screen/Encounter groups.md",
+    "0. DM Screen/Online Tools.md",
+    "0. DM Screen/DM Screen.md",
+    "0. DM Screen/GM Screen.md",
+    "5. Mechanics/PF2E Remaster Community Content/PF2e Journals/GM Screen/Character Wealth.md",
+    "0. DM Screen/Golarion Calendar.md",
+    "6. Lore Enciclopedia/Historia - Aventura.md",
     "6. Lore Enciclopedia/Origen/Huespedes.md",
     "6. Lore Enciclopedia/Origen/Historia del Mundo/Retorno Inestabilidad.md",
     "6. Lore Enciclopedia/Origen/Energias.md",
@@ -241,13 +224,6 @@
     "6. Lore Enciclopedia/Biologia/Gen recesivo.md",
     "2. The World/NPCs/Heraldos/Txun Shu Zu.md",
     "2. The World/NPCs/Heraldos/Emperador Romano.md",
-    "2. The World/NPCs/Heraldos/Eliseo.md",
-    "2. The World/NPCs/El Dragon.md",
-    "2. The World/NPCs/Heraldos/Aegis el Grande.md",
-    "2. The World/NPCs/Heraldos/asdasdasd.md",
-    "2. The World/NPCs/Scratch NPCs Ideas/Darinor.md",
-    "2. The World/NPCs/NPCs.md",
-    "2. The World/NPCs/Scratch NPCs Ideas/Greta la Guerrera Glotona.md",
     "z_Assets/roma_map.jpg",
     "6. Lore Enciclopedia/Geografia",
     "6. Lore Enciclopedia/Biologia",

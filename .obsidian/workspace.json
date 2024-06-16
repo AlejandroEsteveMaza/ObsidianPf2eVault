@@ -36,12 +36,36 @@
             }
           },
           {
-            "id": "5f80579daf9cb088",
+            "id": "5a4826e9f0ba9f5e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6. Lore Enciclopedia/Misiones/Las Sombras del Coliseo.md",
+                "file": "6. Lore Enciclopedia/Civilizaciones/Civilización Mesopotámica.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "bdb805f3ef282148",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6. Lore Enciclopedia/Misiones/El Misterio del Árbol Colgante.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "83bd8a6862a67aa6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6. Lore Enciclopedia/Historia - Aventura.md",
                 "mode": "preview",
                 "source": true
               }
@@ -77,7 +101,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "corcho",
+                "query": "alcorn",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -114,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6. Lore Enciclopedia/Misiones/Las Sombras del Coliseo.md",
+                "file": "6. Lore Enciclopedia/Civilizaciones/Civilización Mesopotámica.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "6. Lore Enciclopedia/Misiones/Las Sombras del Coliseo.md",
+                "file": "6. Lore Enciclopedia/Civilizaciones/Civilización Mesopotámica.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -208,21 +232,24 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "5f80579daf9cb088",
+  "active": "5a4826e9f0ba9f5e",
   "lastOpenFiles": [
-    "6. Lore Enciclopedia/Misiones/Misiones.md",
-    "6. Lore Enciclopedia/Misiones/El Misterio del Árbol Colgante.md",
-    "2. The World/Localizaciones/Localizaciones.md",
-    "6. Lore Enciclopedia/Misiones/Las Sombras del Coliseo.md",
-    "TODO.md",
-    "z_Templates/New Quest Template.md",
-    "2. The World/Localizaciones/Asentamientos/Brundis.md",
-    "6. Lore Enciclopedia/Civilizaciones/Imperio Romano.md",
     "0. DM Screen/Online Tools.md",
+    "2. The World/Localizaciones/Asentamientos/Brundis.md",
+    "6. Lore Enciclopedia/Misiones/El Misterio del Árbol Colgante.md",
+    "TODO.md",
+    "2. The World/Localizaciones/Asentamientos/Aldea del Sauce.md",
+    "6. Lore Enciclopedia/Historia - Aventura.md",
+    "6. Lore Enciclopedia/Civilizaciones/Imperio Romano.md",
+    "6. Lore Enciclopedia/Misiones/Las Sombras del Coliseo.md",
+    "1. Scratch Notes/random generator.md",
+    "z_Assets/AiAssistant",
+    "6. Lore Enciclopedia/Misiones/Misiones.md",
+    "2. The World/Localizaciones/Localizaciones.md",
+    "z_Templates/New Quest Template.md",
     "6. Lore Enciclopedia/Civilizaciones/Civilización China.md",
     "6. Lore Enciclopedia/Encuentros_Eventos.md",
     "6. Lore Enciclopedia/Misiones",
-    "6. Lore Enciclopedia/Historia - Aventura.md",
     "4. Session Journals/Nombre Aventura/Nombre Aventura.md",
     "6. Lore Enciclopedia/Origen/Huespedes.md",
     "6. Lore Enciclopedia/Origen/Huesped Primigenio.md",
@@ -236,8 +263,6 @@
     "z_Assets/Castillo de peracense.jpg",
     "6. Lore Enciclopedia/Civilizaciones/Civilización Egipcia.md",
     "6. Lore Enciclopedia/Civilizaciones/Civilización Griega.md",
-    "z_Templates/Call Out Boxes/Call Out Boxes.md",
-    "1. Scratch Notes/random generator.md",
     "z_Assets/roma_map.jpg",
     "6. Lore Enciclopedia/Geografia",
     "6. Lore Enciclopedia/Biologia",
@@ -249,7 +274,6 @@
     "5. Mechanics/Razas",
     "6. Lore Enciclopedia/Civilizaciones",
     "3. The Party/Nombre Aventura",
-    "4. Session Journals/Nombre Aventura/Acto 1",
     "4. Session Journals/Nombre Aventura/Tablero de viaje.canvas",
     "z_Assets/Darinor.jpg",
     "z_Assets/Liu-Chen.jpg",

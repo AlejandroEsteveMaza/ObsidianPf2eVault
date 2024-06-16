@@ -22,3 +22,6 @@ Battle maps
 
 Generador de ciudades
 - https://gamefromscratch.com/city-generator-hands-on/
+
+CHAT GPT
+- https://intelligedit.com/DragonMind

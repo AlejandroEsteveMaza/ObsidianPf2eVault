@@ -1,5 +1,7 @@
 ## Civilización Mesopotámica
 
+Son grandes navegantes y comerciantes.  No tienen un reino sino que diversas ciudades por las costas del mundo.
+
 Conocida como la cuna de la civilización, Mesopotamia (ubicada en la región de Medio Oriente, entre los ríos Éufrates y Tigris) fue el hogar de las antiguas civilizaciones sumeria, acádica, babilónica y asiria. Esta región fue pionera en áreas como la escritura cuneiforme, la agricultura, la arquitectura y la organización política.
 
 Nombre planeta: Ankara

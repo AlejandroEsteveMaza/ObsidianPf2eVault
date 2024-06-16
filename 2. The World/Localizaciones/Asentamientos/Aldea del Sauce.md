@@ -1,7 +1,7 @@
 ---
 icon: asentamiento
 NoteType: Localizacion
-Civilizacion: Imperio Romano
+Civilizacion: Imperio Romano, Civilizacion China, Civilizacion Griega, Civilizacion Egipcia, Civilizacion Mesopotamica
 Community-Size: Puesto Avanzado, Aldea, Pueblo, Villa, Ciudad
 Alignment: Chaotic Evil
 Government: Autocracy
@@ -85,9 +85,9 @@ Placeholder
 
 Placeholder
 
-## Profile
+## Caracteristicas
 
-Pequeño poblado alejado. Es un lugar tranquilo, alejado de las grandes ciudades. La aldea está rodeada de bosques densos de Aalcornoques y se sustenta principalmente del corcho que obtienen de los alcornoques.
+Placeholder
 
 ## Puntos de interés
 
@@ -111,7 +111,7 @@ Placeholder
 
 ## Detalles adicionales
 
-- Alcornoques - el corcho tiene aplicaciones infinitas, El corcho tarda 10 años en crecer, los arboles se marcan con numeros para saber el ultimo año que crecieron
+Placeholder
 
 `=this.region`
 

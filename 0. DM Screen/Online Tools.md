@@ -19,3 +19,6 @@ Wiki
 
 Battle maps  
 - [https://www.kassoon.com/dnd/battle-maps/](https://www.kassoon.com/dnd/battle-maps/)
+
+Generador de ciudades
+- https://gamefromscratch.com/city-generator-hands-on/

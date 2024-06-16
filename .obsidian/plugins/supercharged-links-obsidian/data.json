@@ -96,6 +96,18 @@
       "selectAppend": true,
       "selectPrepend": true,
       "selectBackground": true
+    },
+    {
+      "type": "attribute",
+      "name": "icon",
+      "value": "quest",
+      "matchCaseSensitive": false,
+      "match": "exact",
+      "uid": "33eb-72c3",
+      "selectText": true,
+      "selectAppend": true,
+      "selectPrepend": true,
+      "selectBackground": true
     }
   ]
 }

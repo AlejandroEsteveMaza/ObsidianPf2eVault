@@ -36,31 +36,19 @@
             }
           },
           {
-            "id": "692199568378126b",
+            "id": "5f80579daf9cb088",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6. Lore Enciclopedia/Origen/Huesped Primigenio.md",
+                "file": "6. Lore Enciclopedia/Misiones/Las Sombras del Coliseo.md",
                 "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "567fdbe825cb6349",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6. Lore Enciclopedia/Origen/Huespedes.md",
-                "mode": "source",
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -89,7 +77,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "darinor",
+                "query": "corcho",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -126,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TODO.md",
+                "file": "6. Lore Enciclopedia/Misiones/Las Sombras del Coliseo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TODO.md",
+                "file": "6. Lore Enciclopedia/Misiones/Las Sombras del Coliseo.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -220,35 +208,36 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "98e573c95f4170dd",
+  "active": "5f80579daf9cb088",
   "lastOpenFiles": [
+    "6. Lore Enciclopedia/Misiones/Misiones.md",
+    "6. Lore Enciclopedia/Misiones/El Misterio del Árbol Colgante.md",
+    "2. The World/Localizaciones/Localizaciones.md",
+    "6. Lore Enciclopedia/Misiones/Las Sombras del Coliseo.md",
+    "TODO.md",
+    "z_Templates/New Quest Template.md",
+    "2. The World/Localizaciones/Asentamientos/Brundis.md",
+    "6. Lore Enciclopedia/Civilizaciones/Imperio Romano.md",
+    "0. DM Screen/Online Tools.md",
+    "6. Lore Enciclopedia/Civilizaciones/Civilización China.md",
+    "6. Lore Enciclopedia/Encuentros_Eventos.md",
+    "6. Lore Enciclopedia/Misiones",
     "6. Lore Enciclopedia/Historia - Aventura.md",
+    "4. Session Journals/Nombre Aventura/Nombre Aventura.md",
     "6. Lore Enciclopedia/Origen/Huespedes.md",
+    "6. Lore Enciclopedia/Origen/Huesped Primigenio.md",
     "6. Lore Enciclopedia/Geografia.md",
     "6. Lore Enciclopedia/Origen/Historia del Mundo/Aliatham.md",
     "6. Lore Enciclopedia/Origen/Historia del Mundo/Epoca Oscura.md",
     "6. Lore Enciclopedia/Origen/Historia del Mundo/Ascension nuevos Huespedes.md",
-    "6. Lore Enciclopedia/Origen/Huesped Primigenio.md",
     "6. Lore Enciclopedia/Origen/Heraldos.md",
     "2. The World/Localizaciones/Asentamientos/Roma.md",
     "6. Lore Enciclopedia/Sin clasificar.md",
     "z_Assets/Castillo de peracense.jpg",
     "6. Lore Enciclopedia/Civilizaciones/Civilización Egipcia.md",
     "6. Lore Enciclopedia/Civilizaciones/Civilización Griega.md",
-    "TODO.md",
     "z_Templates/Call Out Boxes/Call Out Boxes.md",
-    "6. Lore Enciclopedia/Civilizaciones/Civilización China.md",
-    "6. Lore Enciclopedia/Civilizaciones/Imperio Romano.md",
     "1. Scratch Notes/random generator.md",
-    "0. DM Screen/Online Tools.md",
-    "0. DM Screen/Encounter groups.md",
-    "0. DM Screen/DM Screen.md",
-    "0. DM Screen/GM Screen.md",
-    "5. Mechanics/PF2E Remaster Community Content/PF2e Journals/GM Screen/Character Wealth.md",
-    "0. DM Screen/Golarion Calendar.md",
-    "6. Lore Enciclopedia/Origen/Historia del Mundo/Retorno Inestabilidad.md",
-    "6. Lore Enciclopedia/Origen/Energias.md",
-    "6. Lore Enciclopedia/Origen/Historia del Mundo/Historia del Mundo.md",
     "z_Assets/roma_map.jpg",
     "6. Lore Enciclopedia/Geografia",
     "6. Lore Enciclopedia/Biologia",
@@ -262,7 +251,6 @@
     "3. The Party/Nombre Aventura",
     "4. Session Journals/Nombre Aventura/Acto 1",
     "4. Session Journals/Nombre Aventura/Tablero de viaje.canvas",
-    "4. Session Journals/Nombre Aventura",
     "z_Assets/Darinor.jpg",
     "z_Assets/Liu-Chen.jpg",
     "z_Assets/Civitas industrialis.jpg",

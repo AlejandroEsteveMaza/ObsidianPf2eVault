@@ -34,6 +34,30 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "692199568378126b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6. Lore Enciclopedia/Origen/Huesped Primigenio.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "567fdbe825cb6349",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6. Lore Enciclopedia/Origen/Huespedes.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
         ],
         "currentTab": 1
@@ -198,32 +222,33 @@
   },
   "active": "98e573c95f4170dd",
   "lastOpenFiles": [
-    "0. DM Screen/Encounter groups.md",
+    "6. Lore Enciclopedia/Historia - Aventura.md",
+    "6. Lore Enciclopedia/Origen/Huespedes.md",
+    "6. Lore Enciclopedia/Geografia.md",
+    "6. Lore Enciclopedia/Origen/Historia del Mundo/Aliatham.md",
+    "6. Lore Enciclopedia/Origen/Historia del Mundo/Epoca Oscura.md",
+    "6. Lore Enciclopedia/Origen/Historia del Mundo/Ascension nuevos Huespedes.md",
+    "6. Lore Enciclopedia/Origen/Huesped Primigenio.md",
+    "6. Lore Enciclopedia/Origen/Heraldos.md",
+    "2. The World/Localizaciones/Asentamientos/Roma.md",
+    "6. Lore Enciclopedia/Sin clasificar.md",
+    "z_Assets/Castillo de peracense.jpg",
+    "6. Lore Enciclopedia/Civilizaciones/Civilización Egipcia.md",
+    "6. Lore Enciclopedia/Civilizaciones/Civilización Griega.md",
+    "TODO.md",
+    "z_Templates/Call Out Boxes/Call Out Boxes.md",
+    "6. Lore Enciclopedia/Civilizaciones/Civilización China.md",
+    "6. Lore Enciclopedia/Civilizaciones/Imperio Romano.md",
+    "1. Scratch Notes/random generator.md",
     "0. DM Screen/Online Tools.md",
+    "0. DM Screen/Encounter groups.md",
     "0. DM Screen/DM Screen.md",
     "0. DM Screen/GM Screen.md",
     "5. Mechanics/PF2E Remaster Community Content/PF2e Journals/GM Screen/Character Wealth.md",
     "0. DM Screen/Golarion Calendar.md",
-    "6. Lore Enciclopedia/Historia - Aventura.md",
-    "6. Lore Enciclopedia/Origen/Huespedes.md",
     "6. Lore Enciclopedia/Origen/Historia del Mundo/Retorno Inestabilidad.md",
     "6. Lore Enciclopedia/Origen/Energias.md",
-    "6. Lore Enciclopedia/Origen/Historia del Mundo/Aliatham.md",
-    "6. Lore Enciclopedia/Origen/Historia del Mundo/Ascension nuevos Huespedes.md",
     "6. Lore Enciclopedia/Origen/Historia del Mundo/Historia del Mundo.md",
-    "6. Lore Enciclopedia/Origen/Historia del Mundo/Epoca Oscura.md",
-    "6. Lore Enciclopedia/Origen/Heraldos.md",
-    "6. Lore Enciclopedia/Origen/Huesped Primigenio.md",
-    "6. Lore Enciclopedia/Civilizaciones/Imperio Romano.md",
-    "6. Lore Enciclopedia/Civilizaciones/Civilización Mesopotámica.md",
-    "6. Lore Enciclopedia/Civilizaciones/Civilización Griega.md",
-    "6. Lore Enciclopedia/Civilizaciones/Civilización Egipcia.md",
-    "6. Lore Enciclopedia/Civilizaciones/Civilización China.md",
-    "2. The World/Localizaciones/Asentamientos/Brundis.md",
-    "6. Lore Enciclopedia/Biologia/Herencias Oscuras.md",
-    "6. Lore Enciclopedia/Biologia/Gen recesivo.md",
-    "2. The World/NPCs/Heraldos/Txun Shu Zu.md",
-    "2. The World/NPCs/Heraldos/Emperador Romano.md",
     "z_Assets/roma_map.jpg",
     "6. Lore Enciclopedia/Geografia",
     "6. Lore Enciclopedia/Biologia",
@@ -244,7 +269,6 @@
     "z_Assets/Taberna Aurelia.jpg",
     "z_Assets/Pasted image 20240611124723.png",
     "z_Assets/Misc/MapPlaceholder.jpg",
-    "z_Assets/NPCs/Txun_Shu_Zu.jpg",
     "Untitled.canvas"
   ]
 }

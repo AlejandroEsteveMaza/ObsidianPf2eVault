@@ -14,3 +14,6 @@ Es una relación simbiótica donde los [[Huespedes]] obtienen el equilibrio para
 
 
 - Los [[Huespedes]] no pueden actuar entre ellos directamente ya que las energias deben permanecer separadas
+
+### Cartas#
+Uno de ellos repartioó cartas contando la movida cuando uno de los 4 se reveló

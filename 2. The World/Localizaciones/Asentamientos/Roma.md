@@ -92,6 +92,9 @@ Infinidad de calles laterales repletas de casas altas, de tres plantas, construi
 Las calles están atestadas de gente.
 No tiene muchos callejones porque los edificios de piedra están construidos unos contra otros formando largas hileras.
 
+### Exteriores
+Ciudad rodeada por una extensa explanada desprovista de árboles y rocas, fruto de una meticulosa limpieza realizada por los romanos. Este terreno despejado, libre de cualquier posible cobertura, tenía el propósito estratégico de evitar que cualquier fuerza invasora pudiera encontrar refugio o acercarse sin ser detectada, y no había poblados cercanos por esta misma razón defensiva.
+
 ## Puntos de interés
 
 Placeholder
@@ -114,7 +117,8 @@ Placeholder
 
 ## Detalles adicionales
 
-Placeholder
+> [!info]+ Info  
+> Las entradas de [[Roma]] hay una cola enorme para entrar por el mes del [[Emperador Romano]]. Hay dos colas, una para carros y mercancias y otra para viajeros a pie.
 
 `=this.region`
 

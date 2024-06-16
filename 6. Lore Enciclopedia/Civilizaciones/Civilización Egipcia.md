@@ -10,9 +10,14 @@ Nombre planeta: Ta-Kemet
 
 ### Actualmente: 
 - No defienden Kush (Meroiticos)
-- Están sufriendo una plaga
+- Están sufriendo una plaga.
 > [!danger]+ Danger  
 > Solo afecta a los [[Heraldos]]
+
+> [!info]+ Info  
+> **Acceso restringido a las ciudades**. 
+> - Los refugiados se congregan en las entradas de la ciudad quejándose de que les prohíban el paso. 
+> - Hasta que se vea el dragon volando y todo el mundo se vuelva loco y puedan aprovechar para entrar con los guardias y el tumulto a la ciudad
 - Piramides en construccion
 
 ## Meroítico

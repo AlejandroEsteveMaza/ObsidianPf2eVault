@@ -22,3 +22,5 @@ Services: 1 Stable, 1 Tavern, 1 Club, 2 Soothsayers, 1 Doctor/Apothercary
 
 
 Los jugadores caminan por un bosque oscuro
+
+

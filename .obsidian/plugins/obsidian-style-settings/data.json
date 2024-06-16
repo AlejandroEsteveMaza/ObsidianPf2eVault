@@ -23,5 +23,15 @@
   "supercharged-links@@ded1-237e-before": "📜",
   "supercharged-links@@f0d0-1c5a-before": "👽",
   "supercharged-links@@f0d0-1c5a-color": "#00F2A9",
-  "supercharged-links@@f0d0-1c5a-weight": "initial"
+  "supercharged-links@@f0d0-1c5a-weight": "initial",
+  "ITS@@t-d": false,
+  "ITS@@slrvb-b": false,
+  "ITS@@slrvb-g": false,
+  "ITS@@s-d": false,
+  "ITS@@drwn": false,
+  "ITS@@nord": true,
+  "ITS@@mini": false,
+  "ITS@@notion": false,
+  "ITS@@its-d": false,
+  "ITS@@accent-color": false
 }

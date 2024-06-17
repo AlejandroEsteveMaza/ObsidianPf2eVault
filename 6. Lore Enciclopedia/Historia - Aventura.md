@@ -9,12 +9,14 @@
 
 Los aventureros empiezan en [[Brundis]] en el centro del valle. Alli descubren una persona ahorcada de un Alcornoque
 
+Mision [[El Misterio del Árbol Colgante]]
+
 > [!question]+ ❓❓❓  
 >  El ahorcamiento ha sido un suicidio o un asesinato encubierto?
 
-> [!info]+ Info  
-> En [[Civitas industrialis]] se recompensa al mejor trabajador con un ticket para participar en los juegos y tener la oportunidad de ganar.
+[[Eve]] y su madre elegirian un campeon cuando consiguieran el ticket
 
+La madre fue a [[Civitas industrialis]] a conseguir un ticket esta trabajó para la mafia hasta que lo robó y escapo. La mafia la siguió y la mató. Antes de esto le dio el ticket a su hija.
 
 # Mafia 
 - La mafia no se fia de ellos porque no los conoce 

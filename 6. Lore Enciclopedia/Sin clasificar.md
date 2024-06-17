@@ -37,4 +37,26 @@ geografia por añadir
 establecimiento - taberna
 Restaurante peces con alas volando los coges y te los comes. Cadáveres de pez por el suelo
 
+---
+Si un objeto es muy caro y el tendedero no puede comprarlo, ofrece ponerlo en el escaparate a ver si otro quiere comprarlo. Pueden volver mas tarde a ver si se ha vendido y el tendero se lleva una parte
+
+---
+Añadir campanitas en las puertas de las tiendas para saber si alguien entra
+
+---
+Vendedor ambulante que te revenda cosas que has vendido en tiendas
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
 

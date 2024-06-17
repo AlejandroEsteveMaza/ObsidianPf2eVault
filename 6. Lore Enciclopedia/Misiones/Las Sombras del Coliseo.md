@@ -7,7 +7,11 @@ Acto: 1
 
 ### Sinopsis Detallada: Las Sombras del Coliseo
 
-Al llegar a la ciudad conocen al miembro de l amafia que es un mindundi etc
+Ideas no usadas:
+
+- Al llegar a la ciudad conocen al miembro de la mafia que es un mindundi etc
+- Encuentran un plano de reforma de el coliseo de las sombras, que no cuadra con la realidad. Hay una sala que sale en el mapa pero no en la realidad. Está oculto y es donde tienen el alijo
+- Cuando intenten infiltrarse con un npc que de haga pasar por malo, los malos le atraviesan por la espalda y lo matan
 
 
 #### Acto 1: El Inicio de la Búsqueda

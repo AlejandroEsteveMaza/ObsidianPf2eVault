@@ -7,6 +7,9 @@ Acto: 1
 
 ### Sinopsis Detallada: Las Sombras del Coliseo
 
+Al llegar a la ciudad conocen al miembro de l amafia que es un mindundi etc
+
+
 #### Acto 1: El Inicio de la Búsqueda
 
 **Escena 1: La Llegada a la Civitas**

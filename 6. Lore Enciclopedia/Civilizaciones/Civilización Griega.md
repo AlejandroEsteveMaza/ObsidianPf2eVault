@@ -10,5 +10,9 @@ En la mitología griega, "Gaia" es la personificación de la Tierra, la madre pr
 
 ### Actualmente: 
 - Estan sufriendo el asedio del [[Imperio Romano]] 
+
 > [!tip]+ Tip  
 > Los jugadores pueden que colarse en la ciudad disfrazados de refugiados
+
+> [!info]+ Info  
+> Segun te alejas de las murallas hay Menos refugiados, mayor sensscion de orden

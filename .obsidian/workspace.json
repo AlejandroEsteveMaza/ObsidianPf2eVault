@@ -34,45 +34,9 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "5a4826e9f0ba9f5e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0. DM Screen/Online Tools.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "bdb805f3ef282148",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6. Lore Enciclopedia/Misiones/El Misterio del Árbol Colgante.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "83bd8a6862a67aa6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6. Lore Enciclopedia/Historia - Aventura.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -138,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0. DM Screen/Online Tools.md",
+                "file": "TODO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0. DM Screen/Online Tools.md",
+                "file": "TODO.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -232,24 +196,27 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "5a4826e9f0ba9f5e",
+  "active": "98e573c95f4170dd",
   "lastOpenFiles": [
-    "6. Lore Enciclopedia/Civilizaciones/Civilización Mesopotámica.md",
-    "0. DM Screen/Online Tools.md",
-    "2. The World/Localizaciones/Asentamientos/Brundis.md",
-    "6. Lore Enciclopedia/Misiones/El Misterio del Árbol Colgante.md",
-    "TODO.md",
-    "2. The World/Localizaciones/Asentamientos/Aldea del Sauce.md",
+    "6. Lore Enciclopedia/Civilizaciones/Civilización Griega.md",
     "6. Lore Enciclopedia/Historia - Aventura.md",
-    "6. Lore Enciclopedia/Civilizaciones/Imperio Romano.md",
+    "6. Lore Enciclopedia/Sin clasificar.md",
+    "TODO.md",
+    "6. Lore Enciclopedia/Encuentros_Eventos.md",
+    "6. Lore Enciclopedia/Civilizaciones/Civilización Egipcia.md",
     "6. Lore Enciclopedia/Misiones/Las Sombras del Coliseo.md",
+    "6. Lore Enciclopedia/Misiones/El Misterio del Árbol Colgante.md",
+    "0. DM Screen/Online Tools.md",
+    "6. Lore Enciclopedia/Civilizaciones/Civilización Mesopotámica.md",
+    "2. The World/Localizaciones/Asentamientos/Brundis.md",
+    "2. The World/Localizaciones/Asentamientos/Aldea del Sauce.md",
+    "6. Lore Enciclopedia/Civilizaciones/Imperio Romano.md",
     "1. Scratch Notes/random generator.md",
     "z_Assets/AiAssistant",
     "6. Lore Enciclopedia/Misiones/Misiones.md",
     "2. The World/Localizaciones/Localizaciones.md",
     "z_Templates/New Quest Template.md",
     "6. Lore Enciclopedia/Civilizaciones/Civilización China.md",
-    "6. Lore Enciclopedia/Encuentros_Eventos.md",
     "6. Lore Enciclopedia/Misiones",
     "4. Session Journals/Nombre Aventura/Nombre Aventura.md",
     "6. Lore Enciclopedia/Origen/Huespedes.md",
@@ -259,10 +226,7 @@
     "6. Lore Enciclopedia/Origen/Historia del Mundo/Epoca Oscura.md",
     "6. Lore Enciclopedia/Origen/Historia del Mundo/Ascension nuevos Huespedes.md",
     "6. Lore Enciclopedia/Origen/Heraldos.md",
-    "2. The World/Localizaciones/Asentamientos/Roma.md",
-    "6. Lore Enciclopedia/Sin clasificar.md",
     "z_Assets/Castillo de peracense.jpg",
-    "6. Lore Enciclopedia/Civilizaciones/Civilización Egipcia.md",
     "z_Assets/roma_map.jpg",
     "6. Lore Enciclopedia/Geografia",
     "6. Lore Enciclopedia/Biologia",

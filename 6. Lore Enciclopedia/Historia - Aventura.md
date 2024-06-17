@@ -16,6 +16,10 @@ Los aventureros empiezan en [[Brundis]] en el centro del valle. Alli descubren u
 > En [[Civitas industrialis]] se recompensa al mejor trabajador con un ticket para participar en los juegos y tener la oportunidad de ganar.
 
 
+# Mafia 
+- La mafia no se fia de ellos porque no los conoce 
+- Uno de la mafia les dice que si hace unos trabajos para ellos serán de confianza, pero es mentira este miembro no habla en bombre de la mafia y usa los personajes para que hagan su trabajo para subir de rango dentro de la organización
+
 
 # El mes del Emperador 👑
 

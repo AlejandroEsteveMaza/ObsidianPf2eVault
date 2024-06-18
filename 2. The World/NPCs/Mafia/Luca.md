@@ -1,6 +1,8 @@
 ---
 icon: npc
 NoteType: NPC
+alias: Luca el Cruel
+IsHeraldo: "false"
 AssociatedGroup: Name of Guild or Group they belong to
 Gender: Male or Female or... 
 Race: Human, Dwarf, Elf, etc
@@ -10,10 +12,9 @@ Alignment: Are they Chaotic Neutral or Lawful Neutral
 Character-Role: Are they a friend or foe?
 Location: What is the name of the place they live?
 ---
-
 > [!infobox]
 > # `=this.file.name`
-> ![[z_Assets/Misc/ImagePlaceholder.jpg|cover hsmall]]
+> ![[Luca el Cruel.jpg|cover hsmall]]
 > ###### Basic Information
 > Type |  Stat |
 > ---|---|
@@ -31,10 +32,11 @@ Location: What is the name of the place they live?
 > Character Role | `=this.character-role` |
 
 # `=this.file.name`
-## Profile
+## Perfil
 
-**Add description here**
+**AddDescriptionHere**
 
+---
 > [!info] Statblock
 > ```statblock
 > name: Individual

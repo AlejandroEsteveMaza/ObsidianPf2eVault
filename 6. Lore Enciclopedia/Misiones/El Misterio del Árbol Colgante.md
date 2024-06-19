@@ -7,6 +7,8 @@ Acto: 1
 
 ### Sesión 1: El Misterio del Árbol Colgante
 
+La mafia deja pistas falsas para que quien inestigue piense que ha sido otro? Infenctan a alguien con licantropia?
+
 #### Introducción
 Los personajes llegan a un pequeño poblado alejado, llamado **Aldea del Sauce**. Es un lugar tranquilo, alejado de las grandes ciudades y civilizaciones industriales. La aldea está rodeada de bosques densos y se sustenta principalmente de la caza y la agricultura.
 

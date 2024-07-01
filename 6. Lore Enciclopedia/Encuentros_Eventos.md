@@ -37,13 +37,19 @@ Encuentro con [[Darinor]] y [[Liu-Chen]] transportando a Danso
 Problems via magna carreta prisioneros. Mas adelante se encuentran con prisioneros que pide liberar de esposas a cambio de revelar
 
 ----
-
-
-----
-
+ 
+ Tres goblins en una gabardina
 
 ----
 
+[https://youtube.com/shorts/TXBXlgBLW6g?si=gtSGw46KnpssloC5](https://youtube.com/shorts/TXBXlgBLW6g?si=gtSGw46KnpssloC5)
+ Prision - Carcel 
+ Que un npc con el que compartan celda haya estado cavando un tunel detras de un cartel con una cuchara de madera.
+ Solo hay unos pequeños rasguños en la pared. Donde esta haciendo el tunel es a la celda de al lado pero es tonto y no lo habia pensado.
+
+----
+
+Niña que quiere revivir a su hermano muerto, no controla sus poderes y levanta un montonde zombis y esqueletos
 
 ----
 
